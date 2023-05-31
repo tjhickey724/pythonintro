@@ -53,3 +53,17 @@ print("This quote contains both apostrophes (') and quotation marks (\") so it n
 print('''Triple quotes allow you to use apostrophes (') and quotation marks (") without escaping them!''')
 ```
 
+The backslash notation is also used to introduce other characters into a string [more details](https://python-reference.readthedocs.io/en/latest/docs/str/escapes.html)
+For example, \n add a new line character, \t adds a tab, \\ adds a backslash
+
+Also, Python strings can contain characters from any of the standard [Unicode characters](http://www.unicode.org/charts/)
+
+For example,
+``` python
+print('山')
+``` 
+will print the Japanese character yama for Mountain, if you have that character set intalled on your computer.
+
+
+
+
