@@ -4,7 +4,7 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L01: Mon 6/5/2023
 * [setup the vscode environment](../notes/vscode.md)
-* [printing strings](../notes/printing_string.md)
+* [printing strings](../notes/printing_strings.md)
 * [functions-basic](../notes/functions-basic.md)
 * [control-flow-basic](../notes/control-flow-basic.md)
 
