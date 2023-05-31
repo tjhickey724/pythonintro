@@ -31,8 +31,8 @@ where the first line has
 * followed by the NAME of the function you are defining
 * followed by parentheses ()
 * followed by a colon
-and the statements that make up the body of the function
-are all indented the same amount (usually with a tab or 4 spaces)
+* followed by the statements that make up the body of the function
+which are all indented the same amount (usually with a tab or 4 spaces)
 
 For now, the statements are either print statements
 or function calls!
