@@ -28,6 +28,7 @@ def NAME():
 where the first line has 
 * the keyword "def" 
 * followed by a space
+* followed by the NAME of the function you are defining
 * followed by parentheses ()
 * followed by a colon
 and the statements that make up the body of the function
