@@ -10,6 +10,13 @@ say_hello()
 say_hello()
 say_hello()
 ```
+which will result in the following output:
+``` text
+Hello World!
+Hello World!
+Hello World!
+```
+
 In general, the syntax for defining this simple form of a function is
 ``` python
 def NAME():
