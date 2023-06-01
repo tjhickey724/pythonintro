@@ -6,6 +6,7 @@ This file contains links to the notes and code during the Summer School course.
 * [setup the vscode environment](../notes/vscode.md)
 * [printing strings](../notes/printing_strings.md)
 * [functions-basic](../notes/functions-basic.md)
+* [variable-naming](../notes/variable-naming.md)
 * [control-flow-basic](../notes/control-flow-basic.md)
 
 
