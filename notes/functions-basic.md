@@ -1,11 +1,17 @@
 # Basic Function Syntax and Semantics in Python
 
 We can define a function in Python using the "def" keyword.
-For example, here is the way to define a function print "Hello World"
+
+A function is a named collections of Python statements that can be evaluated
+when the function is called.
+
+For example, here is the way to define a function print two lines "Hello World" and "How are you today?"
 and after that we call the function three times:
 ``` python
 def say_hello():
     print("Hello World!")
+    print("How are you, today?")
+    print()
 say_hello()
 say_hello()
 say_hello()
@@ -13,8 +19,14 @@ say_hello()
 which will result in the following output:
 ``` text
 Hello World!
+How are you, today?
+
 Hello World!
+How are you, today?
+
 Hello World!
+How are you, today?
+
 ```
 
 In general, the syntax for defining this simple form of a function is
