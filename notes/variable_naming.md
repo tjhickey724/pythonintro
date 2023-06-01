@@ -58,8 +58,10 @@ one as the name of a function. You will learn how to use
 all of these keywords by the end of the class.
 
 ### Built-in Python functions,
-Also, you should try to avoid using the built-in functions (like print).
-Here is a list of the current built-in python functions. Using one
+Also, you should try to avoid using the built-in functions (like print) as variable names.
+Here is a list of the current built-in python functions. 
+
+Using one of these builtins
 for the name of your own function won't cause an error, but you won't be able
 to use that built-in function anymore as you will have redefined it!
 ``` text
