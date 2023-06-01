@@ -15,7 +15,7 @@ calculate_amortization
 ```
 
 ### Python Keywords
-Here is a list of they Python keywords (but google will find them for you too)
+Here is a list of they Python keywords which cannot be used as variable names, Python will object!
 ``` text
 Keyword	Description
 and	A logical operator
