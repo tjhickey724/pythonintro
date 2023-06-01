@@ -5,6 +5,15 @@ the python keywords (e.g. def) and you shouldn't use any of the python
 built-in function names (e.g. print) as you won't be able to use those
 functions anymore as your function will "override" it.
 
+If a variable contains multiple words, they are usually separated by underscores,
+e.g. here are some valid python variables
+``` python
+say_hello
+greeting
+nth_fibonacci
+calculate_amortization
+```
+
 ### Python Keywords
 Here is a list of they Python keywords (but google will find them for you too)
 ``` text
