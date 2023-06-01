@@ -57,7 +57,7 @@ Python will generate an error if you forget and try to use
 one as the name of a function. You will learn how to use
 all of these keywords by the end of the class.
 
-### Built-in Python functions,
+### Built-in Python variables
 Also, you should try to avoid using the built-in functions (like print) as variable names.
 Here is a list of the current built-in python functions. 
 
