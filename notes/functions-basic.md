@@ -54,29 +54,6 @@ and the syntax for calling such a function is
 NAME()
 ```
 
-Here is a slightly more complex example:
-``` python
-def say_hello():
-    print("Hello World!")
-
-def say_hello2():
-    say_hello()
-    say_hello()
-    say_hello()
-    say_hello()
-
-def say_hello3():
-    say_hello2()
-    say_hello2()
-    say_hello2()
-    say_hello2()
-
-say_hello3()
-```
-Running this will print "Hello World!" sixteen times.
-Do you see why? What if we defined a say_hello4() in a similar
-fashion. How may Hello's would that print? or a say_hello5()??
-
 ### Variable Naming
 The NAME can be any sequene of letters, digits, and underscores,
 starting with a lowercase letter, EXCEPT that you can't use any of
