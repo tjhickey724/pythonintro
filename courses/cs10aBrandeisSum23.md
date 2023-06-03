@@ -11,6 +11,7 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L02: Tue 6/6/2023
 * [Python Arithmetic](../notes/python_arithmetic.md)
+* [Variables](../notes/variables.md)
 * 
 
 
