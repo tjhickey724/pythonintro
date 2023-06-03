@@ -21,3 +21,24 @@ But it has some additional operators
 
 
 You can consult the official documentation to see all of the [Python numeric operators](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
+
+## Math package
+You can also get access to a large set of Mathemtical functions (sin, cos, exp, log, etc.)
+by importing the math package. Here are all of the function you can access
+``` python
+acos acosh asin asinh atan atan2 atanh 
+ceil comb copysign cos cosh degrees dist 
+e erf erfc exp expm1 fabs factorial floor 
+fmod frexp fsum gamma gcd hypot inf 
+isclose isfinite isinf isnan isqrt 
+lcm ldexp lgamma log log10 log1p log2 modf nan 
+nextafter perm pi pow prod radians remainder 
+sin sinh sqrt tan tanh tau trunc ulp
+```
+but you need to preface them with "math", e.g.
+``` python
+import math
+help(math) # this prints documentation about all of the math functions
+print(math.cos(math.pi/2))  # this prints cos(pi/2)
+print(math.pow(2,100))  # this prints 2 to the 100th power
+```
