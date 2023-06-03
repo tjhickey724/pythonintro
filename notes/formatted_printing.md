@@ -16,10 +16,17 @@ This will print
 ``` text
 a=355, b=113, a/b=   3.14159 -   bye
 ```
+Here the FORMAT_STRING is
+``` python
+"a=%3d, b=%3d, a/b=%-10.5f - %5s"
+```
 where
 * %3d means to print an integer using at least 3 spaces
 * %10.5f means to print a float using at least 10 spaces with exactly 5 spaces after the decimal point.
 * %5s means to print a string value using at least 5 spaces
+
+
+
 
 We can also have the answer left justified (using a %-10.5f), e.g.
 ``` python
