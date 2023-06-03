@@ -9,6 +9,10 @@ This file contains links to the notes and code during the Summer School course.
 * [variable-naming](../notes/variable_naming.md)
 * [control-flow-basic](../notes/control_flow_basic.md)
 
+## L02: Tue 6/6/2023
+* [Python Arithmetic](../notes/python_arithmetic.md)
+* 
+
 
 
 
