@@ -10,7 +10,7 @@ where the v1,v2, ..., vn are expressions that produce values (typically numbers 
 and the Format string has a syntax for specifying how each of those values should be printed.
 For example,
 ``` python
-print("a=%3d, b=%3d, a/b=%-10.5f - %5s"%(355,113, 355/113, 'bye'))
+print("a=%3d, b=%3d, a/b=%-10.5f - %5s"%(355, 113, 355/113, 'bye'))
 ```
 This will print
 ``` text
@@ -30,7 +30,7 @@ where
 
 We can also have the answer left justified (using a %-10.5f), e.g.
 ``` python
-print("a=%3d, b=%3d, a/b=%-10.5f - %-5s"%(355,113, 355/113, 'bye'))
+print("a=%3d, b=%3d, a/b=%-10.5f - %-5s"%(355, 113, 355/113, 'bye'))
 ```
 This will print
 ``` text
