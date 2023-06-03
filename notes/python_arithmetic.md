@@ -40,5 +40,5 @@ but you need to preface them with "math", e.g.
 import math
 help(math) # this prints documentation about all of the math functions
 print(math.cos(math.pi/2))  # this prints cos(pi/2)
-print(math.pow(2,100))  # this prints 2 to the 100th power
+print(math.log10(2023))  # this prints the log base 10 of 2023
 ```
