@@ -15,7 +15,7 @@ This file contains links to the notes and code during the Summer School course.
 * [Variables](../notes/variables.md)
 * [Formatted Printing](../notes/formatted_printing.md)
 * [Basic indexed for loops](../notes/for_loop_basic.md)
-
+* [The range generator](../notes/range.md)
 
 
 
