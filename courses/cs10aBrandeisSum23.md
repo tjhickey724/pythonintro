@@ -17,6 +17,9 @@ This file contains links to the notes and code during the Summer School course.
 * [Basic indexed for loops](../notes/for_loop_basic.md)
 * [The range generator](../notes/range.md)
 
+## L03: Wed 6/7/2023
+* functions with parameters
+* functions returning useful values
 
 
 
