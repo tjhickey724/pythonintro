@@ -6,7 +6,7 @@ then the return value is the special Python value ``` none```
 
 To return a value from a function, you use the return statement
 ``` python
-    return(EXPRESSION)
+    return(EXPRESSION)    # the parentheses are optional for return statements
 ```
 which will
 * evaluate the EXPRESSION to get a Python value,
