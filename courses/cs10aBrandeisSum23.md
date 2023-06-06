@@ -18,7 +18,7 @@ This file contains links to the notes and code during the Summer School course.
 * [The range generator](../notes/range.md)
 
 ## L03: Wed 6/7/2023
-* functions with parameters
+* [functions with parameters](../notes/functions_parameters.md)
 * functions returning useful values
 
 
