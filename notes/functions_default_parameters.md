@@ -42,4 +42,17 @@ This will print
 40/50  = 0.8
 ```
 You need to add any default parameters after the usual parameters...
+The following example shows a function which will return the proportional
+distance a value is between the min_val and max_val with the defaults being
+0 and 100. Notice that we can omit the parameter name, if it is in the right
+position, but otherwise we need to use it.
+
+``` python
+def scale(val,min_val=0,max_val=100):
+    return (val-min_val)/(max_val-min_val)
+print(scale(40))
+print(scale(40,max_val=50))
+print(scale(40,20,60))
+print(scale(40,20))
+```
 
