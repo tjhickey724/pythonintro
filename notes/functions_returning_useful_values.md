@@ -58,7 +58,7 @@ Better to run it this way:
 import math
 def degToRadian(d):
     r = d/180*math.pi
-    #return r
+    return r
 d = float(input("The degree is: "))
 degToRadian(d)
 print (r)
