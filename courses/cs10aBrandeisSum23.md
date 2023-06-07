@@ -22,6 +22,12 @@ This file contains links to the notes and code during the Summer School course.
 * [functions with parameters](../notes/functions_parameters.md)
 * [functions returning useful values](../notes/functions_returning_useful_values.md)
 
+## L04: Thu 6/8/2023
+* [scope of variables](../notes/functions_scope_of_variables.md)
+* [default parameters](../notes/functions_default_parameters.md)
+
+
+
 
 
 
