@@ -39,3 +39,18 @@ def calc_cylinder_stats():
 calc_cylinder_stats()
  
 ```
+
+## Global Variables and functions
+
+``` python
+import math
+def degToRadian():
+    global r
+    r = d/180*math.pi
+    #return r
+d = float(input("The degree is: "))
+r = 0
+degToRadian()
+print (r)
+```
+
