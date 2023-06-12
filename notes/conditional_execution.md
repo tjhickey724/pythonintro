@@ -42,6 +42,25 @@ if TEST:
 else:
     ELSE_STATEMENTS
 ```
+
+``` python
+    percent = float(input("What percentage did you earn? "))
+
+if percent >= 90:
+    print("You got an A!")
+else:
+    if percent >= 80:
+      print("You got a B!")
+    else:
+        if percent >= 70:
+            print("You got a C!")
+        else:
+            if percent >= 60:
+                print("You got a D!")
+            else:
+                print("You got an F!")
+print('bye')
+```
   
 ## Nested if/elif/else
 Finally, if there are multiple tests we can use the if/elif/else statement
