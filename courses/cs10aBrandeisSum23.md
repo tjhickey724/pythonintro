@@ -27,7 +27,7 @@ This file contains links to the notes and code during the Summer School course.
 * [default parameters](../notes/functions_default_parameters.md)
 
 ## L05: Mon 6/12/2023
-* [conditional execution]:(../notes/conditional_execution.md)
+* [conditional execution](../notes/conditional_execution.md)
 * [accumulation for loops](../motes/accumulation_for_loops.md)
 
 
