@@ -38,6 +38,12 @@ This file contains links to the notes and code during the Summer School course.
 * more [while loops](../notes/while_loops.md)
 * [accumulation loops](../notes/accumulation_loops.md)
 
+## L08: Thu 6/15/2023
+* [randomness](../notes/randomness.md)
+* [problem solving](../notes/problem_solving.md)
+
+
+
 
 
 
