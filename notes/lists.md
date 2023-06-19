@@ -47,4 +47,17 @@ You can add a single element to the end of a list in two ways
 ```
 
 ## Accumulation loops
-It is very common to uses lists for accumulation
+It is very common to uses lists for accumulation.
+``` python
+poem = ['Two', 'roads', 'diverged', 'in', 'a', 'yellow', 'wood']
+long_words=[]
+for word in poem:
+  if len(word)>=4:
+    long_words.append(word)
+print(long_words)
+```
+will print
+```
+['roads','diverged','yellow','wood']
+```
+
