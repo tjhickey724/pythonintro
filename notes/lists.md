@@ -60,4 +60,19 @@ will print
 ```
 ['roads','diverged','yellow','wood']
 ```
+or we can read numbers from the user and store them in a list:
+``` python
+x=-1
+numbers=[]
+done=False
+while not done:
+  x = input("Enter a positive number, 0 to stop: ")
+  if x>0:
+    numbers.append(x)
+  else:
+    done=True
+print('you entered',numbers)
+print('the average is',sum(numbers)/len(numbers))
+```
 
+  
