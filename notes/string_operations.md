@@ -24,12 +24,16 @@ removeprefix, removesuffix, replace, rfind, rindex, rjust, rpartition, rsplit, r
 split, splitlines, startswith, strip, swapcase, title, translate, upper, zfill
 ```
 You can use the ```help(...)``` method to get documentation about these. Some of the most useful ones are
-* ```A.startswith(B)```  returns true if the string A starts with the string B, (i.e. B is a prefix of A)
+* ```A.startswith(B)```  returns true if the string A starts with the string B, (i.e. B is a prefix of A), e.g.
+    ``` "python".startswith("py") --> True ```
 * ```A.endswith(B)``` returns true if the string A ends with the string B, (i.e. B is a suffix of A)
-* ```A.lower()``` returns the lowercase version of A, e.g. ``` "HeLLo".lower() -> "hello" ```
+* ```A.lower()``` returns the lowercase version of A, e.g. 
+    ``` "HeLLo".lower() -> "hello" ```
 * ```A.upper()``` returns the uppercase version of A
-* ```A.capitalize()``` returns a capitalized version of A, e.g. ``` "allWords".capitalize() -> 'Allwords' ```
-* ```A.strip()``` removes any white space before and after the word, so ``` "  \t abc \n ".strip() -> "abc" ```
+* ```A.capitalize()``` returns a capitalized version of A, e.g. 
+    ``` "allWords".capitalize() -> 'Allwords' ```
+* ```A.strip()``` removes any white space before and after the word, so 
+    ``` "  \t abc \n ".strip() -> "abc" ```
 
 We'll look at more of these later, e.g. split, format, and replace.
 
