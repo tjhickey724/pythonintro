@@ -42,6 +42,12 @@ This file contains links to the notes and code during the Summer School course.
 * [randomness](../notes/randomness.md)
 * [problem solving](../notes/problem_solving.md)
 
+## L09: Tue 6/19/2023
+* [string operations](../notes/string_operations.md)
+* [lists](../notes/lists.md)
+
+
+
 
 
 
