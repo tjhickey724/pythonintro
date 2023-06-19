@@ -1,6 +1,6 @@
 # String Operations
 
-## Primitive operations
+## String functions
 You can find the number of characters in a string using the ```len(s)``` function, e.g.
 ``` python
 > len('hello')
@@ -13,7 +13,7 @@ You can also concatenate two strings using the + operations
 football
 ```
 
-## Builtin methods
+## String methods
 Python also has many builtin string methods, including the following
 ``` python
 capitalize, casefold, center, count, encode, endswith, expandtabs, 
@@ -31,7 +31,7 @@ You can use the ```help(...)``` method to get documentation about these. Some of
 * ```A.capitalize()``` returns a capitalized version of A, e.g. ``` "allWords".capitalize() -> 'Allwords' ```
 * ```A.strip()``` removes any white space before and after the word, so ``` "  \t abc \n ".strip() -> "abc" ```
 
-We'll look at more of these later, e.g. split and strip
+We'll look at more of these later, e.g. split, format, and replace.
 
 ## Indexing
 Python allows you to access individual elements of a string using an index.
@@ -65,4 +65,19 @@ For example,
 > x = "abcdefg"
 > print(x[2:5])
 cde
-> print(x[
+```
+If you omit the START index then it will start at the beginning of the string
+
+If you omit the END index, then it will end at the end of the string
+
+For example,
+``` python
+> x="abcdefg"
+> print(x[:3])
+abc
+> print(x[3:])
+defg
+> print(x[:])
+abcdefg
+```
+
