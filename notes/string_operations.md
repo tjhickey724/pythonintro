@@ -12,6 +12,13 @@ You can also concatenate two strings using the + operations
 > print(x)
 football
 ```
+You can repeatedly concatenate lists with multiplication, e.g.
+``` python
+> print('etc, '*5)
+etc, etc, etc, etc, etc,
+> print("*'*10)
+**********
+```
 
 ## String methods
 Python also has many builtin string methods, including the following
