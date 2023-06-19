@@ -60,13 +60,15 @@ will print
 ```
 ['roads','diverged','yellow','wood']
 ```
+
+## Reading a list of positive numbers from the user
 or we can read numbers from the user and store them in a list:
 ``` python
 x=-1
 numbers=[]
 done=False
 while not done:
-  x = input("Enter a positive number, 0 to stop: ")
+  x = float(input("Enter a positive number, 0 to stop: "))
   if x>0:
     numbers.append(x)
   else:
@@ -75,4 +77,16 @@ print('you entered',numbers)
 print('the average is',sum(numbers)/len(numbers))
 ```
 
+## Reading a list of arbitrary numbers
+We can create a similar loop but ask the user if they want to continue at teach step
+```
+numbers=[]
+response = 'y'
+while response=='y':
+    x = float(input("Enter a number: "))
+    numbers.append(x)  # or numbers += [x]
+    response = input("continue? (y or n) ")
+print('you entered',numbers)
+print('the average is',sum(numbers)/len(numbers))
+```
   
