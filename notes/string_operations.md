@@ -19,6 +19,13 @@ etc, etc, etc, etc, etc,
 > print("*'*10)
 **********
 ```
+You can test if one string is a substring of another with "S in T"
+``` python
+def is_vowel(x):
+   return x in "aeiou"
+def is_substring(s,t):
+   return s in t
+```
 
 ## String methods
 Python also has many builtin string methods, including the following
@@ -41,6 +48,9 @@ You can use the ```help(...)``` method to get documentation about these. Some of
    *  ``` "allWoRDs".capitalize() -> 'Allwords' ```
 * ```A.strip()``` removes any white space before and after the word, so 
    *  ``` "  \t abc \n ".strip() -> "abc" ```
+* ```A.index(B)``` returns the index where substring B first appears in A (and -1 if it doesn't appear)
+   *  ```A.index(B,start,end)``` returns the first index of B in A with start<=index<finish
+   *  ```A.rindex(B,[start, end])``` returns the right most index of B (possibly restricted to A[start:end])
 
 We'll look at more of these later, e.g. split, format, and replace.
 
