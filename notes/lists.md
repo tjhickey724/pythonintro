@@ -45,7 +45,23 @@ You can add a single element to the end of a list in two ways
 > print(x)
 [1,2,3,4,5]
 ```
+## List methods
+Python has several useful built-in methods on lists:
+``` python
+ 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+ ```
+* ```L.append(Y)``` adds the element Y to the end of the list L
+* ```L.clear()``` removes all elements from the list L
+* ```L.copy()``` returns a copy of the list L
+* ```L.count(Y)``` returns the number of times that element Y appears in list L
+* ```L.index(Y)``` returns the index of the first occurrence element Y in the list L (and -1 if Y doesn't appear in L).
+  * ```L.index(Y,start,end)``` returns the index of first occurrences of Y between the indices start and end in the list L
+* ```L.insert(P,Y)``` inserts Y at position P in L
+* ```L.pop()``` removes the last element from L
+* ```L.reverse()``` reverses the elements in L
+* ```L.sort()``` sorts the elements in L
 
+  
 ## Accumulation loops
 It is very common to uses lists for accumulation.
 ``` python
