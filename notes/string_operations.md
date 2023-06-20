@@ -16,7 +16,7 @@ You can repeatedly concatenate lists with multiplication, e.g.
 ``` python
 > print('etc, '*5)
 etc, etc, etc, etc, etc,
-> print("*'*10)
+> print("*"*10)
 **********
 ```
 You can test if one string is a substring of another with "S in T"
