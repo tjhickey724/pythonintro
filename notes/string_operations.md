@@ -114,3 +114,21 @@ for letter in sentence:
 print(new_sentence)
 ```
 
+## Spitting a string into a list of words
+We can use the L.split(S) method to split the string L into a list of strings using the separator string S, e.g.
+We can analyze the short poem, The Purple Cow by Gelett Burgess as follows:
+``` python
+poem = '''I never saw a Purple Cow,
+I never hope to see one,
+But I can tell you, anyhow,
+I'd rather see than be one!'''
+lines = poem.split('\n') # same as poem.split(',') for this poem
+words = poem.split(' ')  # same as poem.split()
+phrases = poem.split(',')
+line1_words = lines[0].split()
+print(line1_words)
+```
+will print
+``` python 
+['I', 'never', 'saw', 'a', 'Purple', 'Cow,']
+```
