@@ -44,9 +44,10 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L09: Tue 6/19/2023
 * [string operations](../notes/string_operations.md)
+
+## L10: Wed 6/20/2023
 * [lists](../notes/lists.md)
-
-
+* [files](../notes/files.md)
 
 
 
