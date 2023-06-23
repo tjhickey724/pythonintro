@@ -17,6 +17,7 @@ Sets can also be created from lists (or tuples) using the ```set(L)``` function
 nums = [3,1,4,1,5,9,2,6,5,3,5]
 digits = set(nums)  # assigns the set {3,1,4,5,9,2,6} to digits
 ```
+Observe that when we converted the list to a set, it removed the duplicate elements but didn't sort it.
 
 You can convert a set into a list using ```list(s)``` or ```sorted(s)```
 ``` python
@@ -26,6 +27,20 @@ likewise ```tuple(s)``` will convert a set into a tuple
 
 ## Set operations
 You can test if something is in a set using ``` x in s``` just as with lists and tuples
+
+You can iterate through a set with a for loop
+``` python
+for d in digits:
+  print(d, end=" ")
+```
+but you can not use indexing or slicing on a set
+```
+digits = set(list(range(0,10)))
+digits[4]  # RAISES AN ERROR
+digits[2:8] # RAISES AN ERROR
+```
+If you want to use indexing or slicing first convert the set ```s``` into a list ```vals = list(s)```
+
 You can also create new sets using the set operations 
 ``` pythons
 s_or_t = s | t  # s_or_t is the set of all elements in s or in t
