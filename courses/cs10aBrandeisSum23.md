@@ -70,11 +70,13 @@ This file contains links to the notes and code during the Summer School course.
 * [image_processing](../notes/image_processing.md)
 
 
-## L14: Wed 6/28/2023 
-
-## L15: Thu 6/27/2023  Data Science
+## L14: Wed 6/28/2023 Data Science - databases
 * [reading excel files](../notes/reading_excel_files.md)
 * [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
+
+## L15: Thu 6/27/2023 Data Science - structured data
+* [reading json data](../notes/reading_json.md)
+* [structured data](../notes/structured_data.md)
 
 
 # Week 5
@@ -86,7 +88,7 @@ Monday and Tuesday are holidays
 * [sorting](../notes/sorting.md)
 
 
-## L17: Thu 7/6/2023
+## L17: Thu 7/6/2023 Object Oriented Programming in Python
 * [Python classes](../notes/python_classes.md)
 
 
