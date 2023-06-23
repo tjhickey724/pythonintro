@@ -2,6 +2,7 @@
 ## Brandeis University, Summer 2023
 This file contains links to the notes and code during the Summer School course.
 
+# Week 1: Variables, Expressions, Functions, and Loops
 ## L01: Mon 6/5/2023
 * [printing strings](../notes/printing_strings.md)
 * [functions-basic](../notes/functions_basic.md)
@@ -26,6 +27,9 @@ This file contains links to the notes and code during the Summer School course.
 * [scope of variables](../notes/functions_scope_of_variables.md)
 * [default parameters](../notes/functions_default_parameters.md)
 
+
+# Week 2: Conditionals, While loops, Problem Solving
+
 ## L05: Mon 6/12/2023
 * [conditional execution](../notes/conditional_execution.md)
 
@@ -42,14 +46,49 @@ This file contains links to the notes and code during the Summer School course.
 * [randomness](../notes/randomness.md)
 * [problem solving](../notes/problem_solving.md)
 
-## L09: Tue 6/19/2023
+# Week 3: Strings, Lists, and Files
+## L09: Tue 6/20/2023
 * [string operations](../notes/string_operations.md)
 
-## L10: Wed 6/20/2023
+## L10: Wed 6/21/2023
 * [lists](../notes/lists.md)
 
-## L11: Thu 6/21/2023
+## L11: Thu 6/23/2023
 * [files](../notes/files.md)
+
+# Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
+
+## L12: Mon 6/26/2023  Tuples, Sets, and Dictionaries
+* [tuples and mutability](../notes/tuples.md)
+* [sets](../notes/sets.md)
+* [dictionaries](../notes/dictionaries)
+
+## L13: Tue 6/27/2023 | Lists of Lists and Lists of Dictionaries
+* [jupyter lab](../notes/jupyter_lab.md)
+* [lists_of_lists](../notes/lists_of_lists.md) 
+* [visualization](../notes/visualization.md)
+* [image_processing](../notes/image_processing.md)
+
+
+## L14: Wed 6/28/2023 
+* [reading excel files](../notes/reading_excel_files.md)
+* [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
+
+
+## L15: Thu 6/27/2023
+
+# Week 5
+
+Monday and Tuesday are holidays
+
+## L16: Wed 7/5/2023
+* [sorting_and_recursion](../notes/sorting_and_recursion.md)
+
+## L17: Thu 7/6/2023
+* [Python classes](../notes/python_classes.md)
+
+
+
 
 
 
