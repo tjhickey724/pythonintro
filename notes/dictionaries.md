@@ -1,5 +1,6 @@
 # Dictionaries
 Dictionaries in Python are like lists except they are indexed by strings (or really any hashable value that could be in a set).
+Dictionaries are often used to represent complex data objects that have multiple features with multiple different types of values.
 
 You can create a dictionary using the following notation
 ```
@@ -24,5 +25,15 @@ COSI 10a Intro to Python was offered in Sum23 and enrolled 34
 > person1['age'] += 1
 > print(person1)
 {'name':'Tim', 'aga':68, 'gender':'male'}
+```
+
+We can iterate through the keys of a dictionary using the usual for loop syntax
+``` python
+> for key in course:  print(key,' :: ',course[key])
+name :: Intro to Python
+enrolled :: 34
+semester :: Sum23
+coursenum :: COSI 10a
+section :: 1
 ```
 
