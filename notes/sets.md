@@ -33,7 +33,11 @@ s_and_t = s & t  # s_and_t is the set of elements in s and in t
 s_diff_t = s-t  # s_diff_t is the set of elements in s and not in t
 s <= t  # this is true if s is a subset of t, i.e. everything in s is also in t
 len(s) # returns the number of elements in s
+s.add(x) # adds the element x to the set s
+s.remove(x) # removes the element x from the set s, generates error if x is not in s
 ```
+
+
 
 
 
