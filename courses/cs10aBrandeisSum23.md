@@ -79,7 +79,7 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L14: Wed 6/28/2023 Data Science - databases
 * [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
-* * [reading excel files](../notes/reading_excel_files.md)
+* [reading excel files](../notes/reading_excel_files.md)
 
 ## L15: Thu 6/27/2023 Data Science - structured data
 * [reading json data](../notes/reading_json.md)
