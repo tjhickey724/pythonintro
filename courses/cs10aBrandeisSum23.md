@@ -65,14 +65,14 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L13: Tue 6/27/2023 | Image Processing and 2D arrays
 * [jupyter lab](../notes/jupyter_lab.md)
-* [lists_of_lists](../notes/lists_of_lists.md) 
 * [visualization](../notes/visualization.md)
+* [lists_of_lists](../notes/lists_of_lists.md) 
 * [image_processing](../notes/image_processing.md)
 
 
 ## L14: Wed 6/28/2023 Data Science - databases
-* [reading excel files](../notes/reading_excel_files.md)
 * [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
+* * [reading excel files](../notes/reading_excel_files.md)
 
 ## L15: Thu 6/27/2023 Data Science - structured data
 * [reading json data](../notes/reading_json.md)
