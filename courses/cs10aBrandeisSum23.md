@@ -63,7 +63,7 @@ This file contains links to the notes and code during the Summer School course.
 * [sets](../notes/sets.md)
 * [dictionaries](../notes/dictionaries)
 
-## L13: Tue 6/27/2023 | Lists of Lists and Lists of Dictionaries
+## L13: Tue 6/27/2023 | Image Processing and 2D arrays
 * [jupyter lab](../notes/jupyter_lab.md)
 * [lists_of_lists](../notes/lists_of_lists.md) 
 * [visualization](../notes/visualization.md)
@@ -71,18 +71,20 @@ This file contains links to the notes and code during the Summer School course.
 
 
 ## L14: Wed 6/28/2023 
+
+## L15: Thu 6/27/2023  Data Science
 * [reading excel files](../notes/reading_excel_files.md)
 * [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
 
-
-## L15: Thu 6/27/2023
 
 # Week 5
 
 Monday and Tuesday are holidays
 
-## L16: Wed 7/5/2023
-* [sorting_and_recursion](../notes/sorting_and_recursion.md)
+## L16: Wed 7/5/2023 Algorithms
+* [searching](../notes/searching.md)
+* [sorting](../notes/sorting.md)
+
 
 ## L17: Thu 7/6/2023
 * [Python classes](../notes/python_classes.md)
