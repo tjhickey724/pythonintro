@@ -29,6 +29,7 @@ This file contains links to the notes and code during the Summer School course.
 * [scope of variables](../notes/functions_scope_of_variables.md)
 * [default parameters](../notes/functions_default_parameters.md)
 
+---
 
 # Week 2: Conditionals, While loops, Problem Solving
 
@@ -48,6 +49,8 @@ This file contains links to the notes and code during the Summer School course.
 * [randomness](../notes/randomness.md)
 * [problem solving](../notes/problem_solving.md)
 
+---
+
 # Week 3: Strings, Lists, and Files
 ## L09: Tue 6/20/2023
 * [string operations](../notes/string_operations.md)
@@ -57,6 +60,8 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L11: Thu 6/23/2023
 * [files](../notes/files.md)
+
+---
 
 # Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
 
@@ -80,6 +85,7 @@ This file contains links to the notes and code during the Summer School course.
 * [reading json data](../notes/reading_json.md)
 * [structured data](../notes/structured_data.md)
 
+---
 
 # Week 5
 
@@ -93,6 +99,7 @@ Monday and Tuesday are holidays
 ## L17: Thu 7/6/2023 Object Oriented Programming in Python
 * [Python classes](../notes/python_classes.md)
 
+---
 
 
 
