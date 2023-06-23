@@ -61,7 +61,7 @@ This file contains links to the notes and code during the Summer School course.
 ## L12: Mon 6/26/2023  Tuples, Sets, and Dictionaries
 * [tuples and mutability](../notes/tuples.md)
 * [sets](../notes/sets.md)
-* [dictionaries](../notes/dictionaries)
+* [dictionaries](../notes/dictionaries.md)
 
 ## L13: Tue 6/27/2023 | Image Processing and 2D arrays
 * [jupyter lab](../notes/jupyter_lab.md)
