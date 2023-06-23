@@ -38,7 +38,7 @@ This file contains links to the notes and code during the Summer School course.
 
 
 ## L06: Tue 6/13/2023
-* more conditional practice with Spinoza
+* more [conditional execution](../notes/conditional_execution.md) with Spinoza
 * [while loops](../notes/while_loops.md)
 
 ## L07: Wed 6/14/2023
