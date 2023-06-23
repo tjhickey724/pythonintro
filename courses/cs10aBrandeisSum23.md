@@ -2,6 +2,8 @@
 ## Brandeis University, Summer 2023
 This file contains links to the notes and code during the Summer School course.
 
+---
+
 # Week 1: Variables, Expressions, Functions, and Loops
 ## L01: Mon 6/5/2023
 * [printing strings](../notes/printing_strings.md)
