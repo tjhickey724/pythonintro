@@ -66,16 +66,15 @@ This file contains links to the notes and code during the Summer School course.
 # Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
 
 ## L12: Mon 6/26/2023  Tuples, Sets, and Dictionaries
+* [jupyter lab](../notes/jupyter_lab.md)
 * [tuples and mutability](../notes/tuples.md)
 * [sets](../notes/sets.md)
 * [dictionaries](../notes/dictionaries.md)
 
 ## L13: Tue 6/27/2023 | Image Processing and 2D arrays
-* [jupyter lab](../notes/jupyter_lab.md)
 * [visualization](../notes/visualization.md)
 * [lists_of_lists](../notes/lists_of_lists.md) 
 * [image_processing](../notes/image_processing.md)
-
 
 ## L14: Wed 6/28/2023 Data Science - databases
 * [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
