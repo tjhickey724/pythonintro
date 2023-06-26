@@ -1,23 +1,29 @@
 # Tuples and Mutability
-In Python, a tuple is a data structure very similar to a list in that it can
-store a sequence of data and
-* you can access the elements of a tuple with indexing and slicing
-  ``` python
-  print(tuple_val[1]) --> prints 20
-  print(tuple_val[1:-1]) --> prints (20,30,40)
-  ```
+In Python, a tuple is a data structure very similar to a list 
 It main differences are that 
 * it is defined using parentheses (10,20,30) rather than square brackets [10,20,30]
-  ``` python
-  tuple_val=(10,20,30,40,50)
-  list_val = [10,20,30,40,50]
-
+``` python
+  tuple_vals=(10,20,30,40,50)
+  list_vals = [10,20,30,40,50]
+```
 * most importantly, it is immutable,
   that is, you cannot assign a different value to an index of a tuple.
+``` python
+  tuple_vals[1]=21  # this generates a run-time error!!
+  list_vals[1] = 21 # this changes the second element of list_val to 21, with no errors
+```
+It is similar in that it can store a sequence of data and
+* you can access the elements of a tuple with indexing and slicing
   ``` python
-  tuple_val[1]=21  # this generates a run-time error!!
-  list_val[1] = 21 # this changes the second element of list_val to 21, with no errors
+  print(tuple_vals[1]) --> prints 20
+  print(tuple_vals[1:-1]) --> prints (20,30,40)
   ```
+* you can iterate through a tuple with a for loop
+``` python
+for d in tuple_vals:
+  print(d, end=" ")
+```
+
 
 You can convert between lists and tuples using the ```list(T)``` and ```tuple(L)``` functions
 ```
