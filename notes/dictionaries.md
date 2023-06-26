@@ -3,16 +3,16 @@ Dictionaries in Python are like lists except they are indexed by strings (or rea
 Dictionaries are often used to represent complex data objects that have multiple features with multiple different types of values.
 
 You can create a dictionary using the following notation
-```
+``` python
 {key1:val1,  key2:val2,  .... , keyn:valn}
 ```
 where the ```key```s are hashable types (strings, numbers, tuples of numbers, etc.)
 and the ```val```s can be any Python value
 
 For example,
-```
-person1 = {'name':'Tim', 'aga':67, 'gender':'male'}
-person2 = {'name':'Caitlin', 'aga':28, 'gender':'female'}
+``` python
+person1 = {'name':'Tim', 'age':67, 'gender':'male'}
+person2 = {'name':'Caitlin', 'age':28, 'gender':'female'}
 course = {'name':'Intro to Python', 'enrolled':34, 'semester':'Sum23', 'coursenum':'COSI 10a', 'section':1}
 ```
 We can access and modify the values in a dictionary using the ```d[k]``` indexing notation, which is similar to
