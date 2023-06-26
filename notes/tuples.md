@@ -6,18 +6,19 @@ It main differences are that
   tuple_vals=(10,20,30,40,50)
   list_vals = [10,20,30,40,50]
 ```
-* most importantly, it is immutable,
+* you can access the elements of a tuple with indexing and slicing
+  ``` python
+  print(tuple_vals[1]) --> prints 20
+  print(tuple_vals[1:-1]) --> prints (20,30,40)
+  ```
+* Bur, it is immutable,
   that is, you cannot assign a different value to an index of a tuple.
 ``` python
   tuple_vals[1]=21  # this generates a run-time error!!
   list_vals[1] = 21 # this changes the second element of list_val to 21, with no errors
 ```
 It is similar in that it can store a sequence of data and
-* you can access the elements of a tuple with indexing and slicing
-  ``` python
-  print(tuple_vals[1]) --> prints 20
-  print(tuple_vals[1:-1]) --> prints (20,30,40)
-  ```
+
 * you can iterate through a tuple with a for loop
 ``` python
 for d in tuple_vals:
