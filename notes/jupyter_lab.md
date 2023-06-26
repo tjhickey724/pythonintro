@@ -3,9 +3,13 @@
 It is frequenlty used in Data Science.  
 
 ## Installation on a PC
-The easiest way to install it is to use
+The easiest way to install it is to open a terminal in vscode and type the following ...
 ``` bash
 pip install jupyterlab
+```
+or you can try this
+``` bash
+py -m pip install jupyterlab
 ```
 
 ## Installation on a Mac
