@@ -32,4 +32,47 @@ def divisors(n):
     return [d for d in range(1,n+1) if n%d==0]
 print(divisors(360))
 ```
+This is called a filtering transformation as it starts with the list ```[1,2,...,n]```
+and returns a subset of that list (the d's that divide n evenly).
+
+Likewise, we could do this without comprehensions using an accumulation loop:
+``` python
+def divisors(n):
+    ds = []
+    for d in range(1,n+1):
+        if n%d==0:
+            ds.append(d)
+    return ds
+print(divisors(360))
+```
+
+## Mapping and Filtering
+We can combine mapping and filtering
+For example the following comprehension returns the squares of all odd numbers less than 100
+``` python
+odd_squares = [d for d in range(100) if d%2==1]
+print(odd_squares)
+```
+which we could write without a comprehension as
+``` python
+odd_squares = []
+for d in range(100):
+    if d%2==1:
+        odd_squares.append(d)
+```
+
+The general list comprehension
+``` python
+result = [EXPRESSION for VARIABLE in LIST if CONDITION]
+```
+can be replaced by an accumulation loop, but it requires more code:
+``` python
+result = []
+for VARIABLE in LIST:
+    if CONDITION:
+        result.append(EXPRESSION)
+```
+where of courses we need to replace VARIABLE, LIST, CONDITION, and EXPRESSION
+with the appropriate Python code.
+
 
