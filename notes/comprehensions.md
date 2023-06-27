@@ -18,6 +18,12 @@ print(squares)
 ```
 This is called a mapping transformation as it replaces the list ```[0,1,...,100]```
 with the list ```[0,1,4,9,16,...,10000]```, i.e. it simiply square each element in the original list.
+We could also do this with an accumulation loop
+``` python
+squares = []
+for x in range(100:
+    squres.append(x*x)
+```
 
 
 and we could generate a list of the divisors of a number n using
