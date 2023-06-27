@@ -11,6 +11,7 @@ This creates a list by iterating the VARIABLE through the LIST
 and for each VARIABLE value that satisfies the CONDITION,
 it evaluates the EXPRESSION and stores it in the result list.
 
+## Mapping
 For example, we can a list of the squares of the numbers from 0 to 100 using
 ``` python
 squares = [x*x for x in range(100)]
@@ -25,8 +26,8 @@ for x in range(100:
     squres.append(x*x)
 ```
 
-
-and we could generate a list of the divisors of a number n using
+## Filtering
+We could generate a list of the divisors of a number n using
 ``` python
 def divisors(n):
     return [d for d in range(1,n+1) if n%d==0]
