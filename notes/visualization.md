@@ -10,6 +10,11 @@ you need to install matplotlb using pip (or pip3 on mac)
 python -m pip install matplotlib   (ON Windows)
 python3 -m pip install matplotlib   (ON Mac)
 ```
+or
+``` bash
+pip install matplotlib ( on window)
+pip3 install matplot  (on mac)
+```
 We will use it by import the pyplot function (and renaming in plt which is shorter)
 ``` python
 from matplotlib import pyplot as plt
