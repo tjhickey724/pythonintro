@@ -51,7 +51,7 @@ print(divisors(360))
 We can combine mapping and filtering
 For example the following comprehension returns the squares of all odd numbers less than 100
 ``` python
-odd_squares = [d for d in range(100) if d%2==1]
+odd_squares = [d*d for d in range(100) if d%2==1]
 print(odd_squares)
 ```
 which we could write without a comprehension as
@@ -59,7 +59,7 @@ which we could write without a comprehension as
 odd_squares = []
 for d in range(100):
     if d%2==1:
-        odd_squares.append(d)
+        odd_squares.append(d*d)
 ```
 
 The general list comprehension
