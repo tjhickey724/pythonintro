@@ -14,6 +14,11 @@ We will use it by import the pyplot function (and renaming in plt which is short
 ``` python
 from matplotlib import pyplot as plt
 ```
+You can install it in a Jupyter lab notebook using the following code:
+``` python
+import sys
+!{sys.executable} -m pip install matplotlib
+```
 
 ## Basic use
 The plt.plot function takes a list xs of x coordinate and list ys of y coordinates
