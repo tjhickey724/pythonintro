@@ -23,7 +23,7 @@ We could also do this with an accumulation loop
 ``` python
 squares = []
 for x in range(100:
-    squres.append(x*x)
+    squares.append(x*x)
 ```
 
 ## Filtering
