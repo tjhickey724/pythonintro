@@ -22,7 +22,7 @@ with the list ```[0,1,4,9,16,...,10000]```, i.e. it simiply square each element 
 We could also do this with an accumulation loop
 ``` python
 squares = []
-for x in range(100:
+for x in range(100):
     squares.append(x*x)
 ```
 
