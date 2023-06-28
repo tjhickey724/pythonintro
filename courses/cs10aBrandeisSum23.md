@@ -73,15 +73,17 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L13: Tue 6/27/2023 | Data Science - databases
 * [reading excel files](../notes/reading_excel_files.md)
-* [comprehensions](../notes/comprehensions.md) Comprehensions for mapping and filtering compound data
-* [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
+
 
 ## L14: Wed 6/28/2023  Image Processing and 2D arrays
+* [comprehensions](../notes/comprehensions.md) Comprehensions for mapping and filtering compound data
+* [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
 * [visualization](../notes/visualization.md)
-* [lists_of_lists](../notes/lists_of_lists.md) 
-* [image_processing](../notes/image_processing.md)
+
 
 ## L15: Thu 6/27/2023 Data Science - structured data
+* [lists_of_lists](../notes/lists_of_lists.md) 
+* [image_processing](../notes/image_processing.md)
 * [reading json data](../notes/reading_json.md)
 * [structured data](../notes/structured_data.md)
 
