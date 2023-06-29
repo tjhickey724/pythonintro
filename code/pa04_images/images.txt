@@ -1,0 +1,19 @@
+The goal of this PA is to have students
+get practice working with multidimensional arrays.
+In this case,2d arrays of 3 tuples.
+
+Interesting things to do 
+* learn how to read and write images as 2d arrays of tuples
+* learn how to modify images by looping over pixels
+* combining images
+* lightening or darkening images
+* blurring an image
+* converting color to grayscale or black/white
+
+PA write a program to ask user for a image path
+and then perform operations on it, e.g. 
+convert it by averaging the r and g parameters
+to simulate RedGreen color blindness.
+
+I can create this on Tuesday and assign it on Wednesday.
+On monday I'll give examples of using it to 

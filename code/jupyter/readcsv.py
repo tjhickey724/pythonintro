@@ -1,20 +1,14 @@
 import csv
 
 with open('code/jupyter/people.csv', 'r') as csvfile:
-    people = list(csv.DictReader(csvfile,delimiter=","))
-print(len(people))
+    people = list(csv.DictReader(csvfile, delimiter=","))
 
-# clean data, make age and height integers
-for person in people:
-    person['age']= int(person['age'])
-    person['height'] = int(person['height'])
-
-# create a list of the people who are too old (>120) or too young (<0)
+def clean_data():
+    for person in people:
+        person['age'] = int(person['age'])
+        person['height'] = int(person['height'])
+        person['age_in_weeks'] = person['age'] * 52  
+clean_data()
 
 for person in people:
     print(person)
-
-
-    
-
-
