@@ -42,6 +42,10 @@ u = z.mul(w)
 v = z*w
 print(z,w,u,v,u==v)
 ```
+## Exercise
+Add the methods ```sub, div, __sub__, __truediv__``` to the Complex class and show how to use them
+(note that ```__truediv__``` is the operator for handling "x/y" not ```__div__```
+
 
 ## Objects versus Dictionaries
 Both a dictionaries d and an object x allow us to store values in a python value and access it by name but
