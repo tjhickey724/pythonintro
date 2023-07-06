@@ -20,7 +20,6 @@ class Complex():
     def __str__(self):
         return f'{self.re}+{self.im}i'
     def __eq__(self,other):
-        print(self,other,self.re==other.re,self.im==other.im)
         return self.re==other.re and self.im==other.im
     def add(self,other):
         return Complex(self.re+other.re, self.im+other.im)
