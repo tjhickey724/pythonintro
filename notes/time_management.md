@@ -7,4 +7,5 @@
    * [Beat Distractions and Temptations](https://osf.io/nhqvs?view_only=ee8a1bdd9cf44ac0942d28e26c579257)
 * [Video 3: Reading Textbooks](https://osf.io/rw3da?view_only=ee8a1bdd9cf44ac0942d28e26c579257)
    * [Taking Effective Notes](https://osf.io/472z5?view_only=ee8a1bdd9cf44ac0942d28e26c579257)
+   * [Textbook reading tips](https://osf.io/ed4v6?view_only=ee8a1bdd9cf44ac0942d28e26c579257)
 
