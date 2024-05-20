@@ -35,6 +35,7 @@ So, you can create a string using 4 different kinds of quotes...
 single apostrophes ('), single quotation marks ("), or triple apostroples ('''),
 or triple quotation marks (""")
 
+## Printing special characters
 If your string uses single apostrophe's and you want to include an apostrophe 
 in your string, you need to "escape" it by putting a backslash (\) in front of it, e.g.
 
@@ -63,7 +64,6 @@ For example,
 print('山')
 ``` 
 will print the Japanese character yama for Mountain, if you have that character set intalled on your computer.
-
 
 
 
