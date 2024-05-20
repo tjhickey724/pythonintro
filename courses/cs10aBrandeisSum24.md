@@ -36,47 +36,43 @@
 
 ## L05: Mon 6/10/2023
 * [conditional execution](../notes/conditional_execution.md)
-
-
-## L06: Tue 6/11/2023
 * more [conditional execution](../notes/conditional_execution.md) with Spinoza
 * [while loops](../notes/while_loops.md)
 
-## L07: Wed 6/12/2023
+## L06: Tue 6/11/2023
 * more [while loops](../notes/while_loops.md)
 * [accumulation loops](../notes/accumulation_loops.md)
-
-## L08: Thu 6/13/2023
 * [randomness](../notes/randomness.md)
 * [problem solving](../notes/problem_solving.md)
 
 ---
 
 # Week 3: Strings, Lists, and Files
-## L09: Tue 6/20/2023
+
+## L7: Mon 6/17/2023
 * [string operations](../notes/string_operations.md)
 
-## L10: Wed 6/21/2023
+## L8: Tue 6/18/2023
 * [lists](../notes/lists.md)
 
-## L11: Thu 6/23/2023
+## L11: Thu 6/20/2023
 * [files](../notes/files.md)
 
 ---
 
 # Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
 
-## L12: Mon 6/26/2023  Tuples, Sets, and Dictionaries
+## L12: Mon 6/24/2023  Tuples, Sets, and Dictionaries
 * [jupyter lab](../notes/jupyter_lab.md)
 * [tuples and mutability](../notes/tuples.md)
 * [sets](../notes/sets.md)
 * [dictionaries](../notes/dictionaries.md)
 
-## L13: Tue 6/27/2023 | Data Science - databases
+## L13: Tue 6/25/2023 | Data Science - databases
 * [reading excel files](../notes/reading_excel_files.md)
 
 
-## L14: Wed 6/28/2023  Image Processing and 2D arrays
+## L14: Wed 6/26/2023  Image Processing and 2D arrays
 * [comprehensions](../notes/comprehensions.md) Comprehensions for mapping and filtering compound data
 * [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
 * [visualization](../notes/visualization.md)
@@ -94,13 +90,16 @@
 
 Monday and Tuesday are holidays
 
-## L16: Wed 7/5/2023 Algorithms
+## L16: Mon 7/1/2023 Algorithms
 * [searching](../notes/searching.md)
 * [sorting](../notes/sorting.md)
 
 
-## L17: Thu 7/6/2023 Object Oriented Programming in Python
+## L17: Tue 7/2/2023 Object Oriented Programming in Python
 * [Python classes](../notes/python_classes.md)
+
+## L18: Wed 7/3/2024
+* TBA
 
 ---
 
