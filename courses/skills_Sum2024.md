@@ -1,7 +1,9 @@
 # Learning Objectives for CS10a Summer 2024
 This is a five week class. By the end of the course you will have mastered several programming concepts
 as well as several software development skills.
-We list those below.
+
+The programming concept skills will be tested using weekly takehome exams
+The software development concepts will be tested using weekly programming assignments
 
 ## Programming Concepts
 1.  SLP - variables, operators, expressions, input, and output in Straight Line Programs
@@ -14,15 +16,23 @@ We list those below.
 8.  Sets and Tuples - immutability
 9.  Comprehensions - higher level data abstraction
 10. Files and Exceptions - writing programs that read from and/or write to files
-11. Algorithms and Recursion -
+11. Recursion - writing and analyzing recursive functions
+12. Classes - brief intro to Object Oriented Programming
 
 
 ## Software Development Skills
-1. time management - task planning, pomodoros, using calendars and alarms
-2. documentation - adding explanations to code
-3. oral communication - learning how to explain code and programming strategies in videos
-4. Integrated Development Envirments - ability to use vscode to write and run Python code
+1. Time management - task planning, pomodoros, using calendars and alarms
+2. Documentation - adding explanations to code
+3. Presentation - learning how to explain code and programming strategies in videos
+4. Integrated Development Environments - ability to use vscode to write and run Python code
 5. Debugging - ability to use vscode debugger and python tutor to trace through programs
 6. Style - ability to run style checks and to write hygenic programs
 7. Problem Solving - ability to use the 7 step method to solve problems using Python
-* 
+8. Packages - defining, installing, importing, and using modules
+9. Type Specification - specifying variable and function types
+10. Jupyter notebooks - creating and using Jupyter notebooks
+11. Algorithms and Pseudocode
+12. Copilot - use of AI to help write and debug programs
+
+
+
