@@ -2,8 +2,9 @@
 This is a five week class. By the end of the course you will have mastered several programming concepts
 as well as several software development skills.
 
-The programming concept skills will be tested using weekly takehome exams
-The software development concepts will be tested using weekly programming assignments
+The programming concept skills will be tested using weekly takehome exams.
+
+The software development concepts will be tested using weekly programming assignments.
 
 ## Programming Concepts
 1.  SLP - writing Straight Line Programs using variables, operators, expressions, keyboard input, and printing output to the screen
