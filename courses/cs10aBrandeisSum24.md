@@ -49,36 +49,36 @@
 
 # Week 3: Strings, Lists, and Files
 
-## L7: Mon 6/17/2023
+## L07: Mon 6/17/2023
 * [string operations](../notes/string_operations.md)
 
-## L8: Tue 6/18/2023
+## L08: Tue 6/18/2023
 * [lists](../notes/lists.md)
 
-## L11: Thu 6/20/2023
+## L09: Thu 6/20/2023
 * [files](../notes/files.md)
 
 ---
 
 # Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
 
-## L12: Mon 6/24/2023  Tuples, Sets, and Dictionaries
+## L10: Mon 6/24/2023  Tuples, Sets, and Dictionaries
 * [jupyter lab](../notes/jupyter_lab.md)
 * [tuples and mutability](../notes/tuples.md)
 * [sets](../notes/sets.md)
 * [dictionaries](../notes/dictionaries.md)
 
-## L13: Tue 6/25/2023 | Data Science - databases
+## L11: Tue 6/25/2023 | Data Science - databases
 * [reading excel files](../notes/reading_excel_files.md)
 
 
-## L14: Wed 6/26/2023  Image Processing and 2D arrays
+## L12: Wed 6/26/2023  Image Processing and 2D arrays
 * [comprehensions](../notes/comprehensions.md) Comprehensions for mapping and filtering compound data
 * [lists_of_dicts](../notes/lists_of_dicts.md)  Applications to Data Science
 * [visualization](../notes/visualization.md)
 
 
-## L15: Thu 6/27/2023 Data Science - structured data
+## L13: Thu 6/27/2023 Data Science - structured data
 * [lists_of_lists](../notes/lists_of_lists.md) 
 * [image_processing](../notes/image_processing.md)
 * [reading json data](../notes/reading_json.md)
@@ -90,15 +90,15 @@
 
 Monday and Tuesday are holidays
 
-## L16: Mon 7/1/2023 Algorithms
+## L14: Mon 7/1/2023 Algorithms
 * [searching](../notes/searching.md)
 * [sorting](../notes/sorting.md)
 
 
-## L17: Tue 7/2/2023 Object Oriented Programming in Python
+## L15: Tue 7/2/2023 Object Oriented Programming in Python
 * [Python classes](../notes/python_classes.md)
 
-## L18: Wed 7/3/2024
+## L16: Wed 7/3/2024
 * TBA
 
 ---
