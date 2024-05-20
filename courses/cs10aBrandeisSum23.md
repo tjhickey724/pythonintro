@@ -29,7 +29,7 @@ This file contains links to the notes and code during the Summer School course.
 * [scope of variables](../notes/functions_scope_of_variables.md)
 * [default parameters](../notes/functions_default_parameters.md)
 
----
+--- 
 
 # Week 2: Conditionals, While loops, Problem Solving
 
