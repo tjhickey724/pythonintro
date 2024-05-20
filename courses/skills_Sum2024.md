@@ -6,7 +6,7 @@ The programming concept skills will be tested using weekly takehome exams
 The software development concepts will be tested using weekly programming assignments
 
 ## Programming Concepts
-1.  SLP - variables, operators, expressions, input, and output in Straight Line Programs
+1.  SLP - writing Straight Line Programs using variables, operators, expressions, keyboard input, and printing output to the screen
 2.  CondEx - adding conditional execution to straight line programs, if/elif/else statements, control flow
 3.  Loops - adding interation to Conditional programs with while and for loops
 4.  Functions - procedural abstraction, defining and calling user-defined functions
