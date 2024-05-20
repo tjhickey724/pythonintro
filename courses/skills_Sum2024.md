@@ -21,7 +21,7 @@ The software development concepts will be tested using weekly programming assign
 12. Classes - brief intro to Object Oriented Programming
 
 
-## Software Development Skills
+## Software Development and Problem Solving Skills
 1. Time management - task planning, pomodoros, using calendars and alarms
 2. Documentation - adding explanations to code
 3. Presentation - learning how to explain code and programming strategies in videos
