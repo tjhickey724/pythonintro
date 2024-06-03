@@ -62,8 +62,24 @@ Also, Python strings can contain characters from any of the standard [Unicode ch
 For example,
 ``` python
 print('山')
-``` 
+```
 will print the Japanese character yama for Mountain, if you have that character set intalled on your computer.
+
+## Printing multiple values
+You can print several python values in one print statement, e.g.
+``` python
+print('2^10=', 2**10)
+```
+
+## Printing on the same line
+Printing usually goes to a new line after it prints it values,
+but you can change that by specifying the value of the "end" parameter
+``` python
+print('pi is about', 355/133, end=" ... ")
+print('pi is exactly',math.pi)
+```
+which will print the results all on one line with "..." between them.
+
 
 
 
