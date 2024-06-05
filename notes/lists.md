@@ -61,6 +61,9 @@ Python has several useful built-in methods on lists:
 * ```L.reverse()``` reverses the elements in L
 * ```L.sort()``` sorts the elements in L
 
+
+# More Advanced Topics
+Return to this when we learn about loops!
   
 ## Accumulation loops
 It is very common to uses lists for accumulation.
