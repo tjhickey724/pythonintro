@@ -16,7 +16,8 @@
 
 
 ## L03: Wed 6/5/2023
-
+* [string operations](../notes/string_operations.md)
+* [lists](../notes/lists.md)
 
 ## L04: Thu 6/6/2023
 
