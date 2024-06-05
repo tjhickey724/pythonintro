@@ -6,7 +6,6 @@
 # Week 1: Variables, Expressions, Functions, and Loops
 ## L01: Mon 6/3/2023
 * [printing strings](../notes/printing_strings.md)
-* [functions-basic](../notes/functions_basic.md)
 * [variable-naming](../notes/variable_naming.md)
 
 ## L02: Tue 6/4/2023
