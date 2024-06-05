@@ -6,7 +6,7 @@ They can be created using square brackets with the Python elements separated by 
 ``` python
 > primes = [2,3,5,7,11,13,17,19]
 > articles = ['a', 'an', 'the']
-> misc - [0, 'hello', 3.14159, True, 2.718281828]
+> misc = [0, 'hello', 3.14159, True, 2.718281828]
 > poem = ['Two', 'roads', 'diverged', 'in', 'a', 'yellow', 'wood']
 ```
 
