@@ -57,6 +57,7 @@ This file contains links to the notes and code during the Summer School course.
 
 ## L10: Wed 6/21/2023
 * [lists](../notes/lists.md)
+* [more lists](../notes/lists2.md)
 
 ## L11: Thu 6/23/2023
 * [files](../notes/files.md)
