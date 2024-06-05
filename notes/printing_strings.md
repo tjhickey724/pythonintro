@@ -80,6 +80,25 @@ print('pi is exactly',math.pi)
 ```
 which will print the results all on one line with "..." between them.
 
+## f-strings
+One very useful feature of Python is the ability to use a template to insert values into a string.
+For example,
+``` python
+age = 68
+height=67.5
+name="Tim"
+intro = f'The person {name} is {age} years old and {height} inches high'
+print(intro)
+```
+This will print
+``` python
+The person Tim is 68 years old and 67.5 inches high
+```
+You can also specify the number of spaces to be used and the alignment by adding a colon after the variable name and extra info
+These are called [formatted strings](https://docs.python.org/3/tutorial/inputoutput.html)
+For example ```{name:20}``` would save the name in at least 20 spaces, ```{height:5.2}``` would use at least 5 spaces for the height
+and would have exactly 2 digits after decimal point.
+
 
 
 
