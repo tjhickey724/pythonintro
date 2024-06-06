@@ -21,6 +21,7 @@
   
 ## L04: Thu 6/6/2023
 * [lists](../notes/lists.md)
+* [tuples](../notes/tuples.md)
 * [sets](../notes/sets.md)
 * [dictionaries](../notes/dictionaries.md)
 
