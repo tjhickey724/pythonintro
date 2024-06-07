@@ -33,9 +33,12 @@
 # Week 2: Conditionals, While loops, Problem Solving
 
 ## L05: Mon 6/10/2023
+* [conditionals](../notes/conditional_execution.md)
 
 
 ## L06: Tue 6/11/2023
+* [while loops](../notes/while_loops.md)
+* [for loops](../notes/for_loop_basic.md)
 
 
 ---
