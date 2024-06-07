@@ -62,6 +62,21 @@ else:
 print('bye')
 ```
 
+## Nested if/elif/else
+Finally, if there are multiple tests we can use the if/elif/else statement
+to try each one in turn until we find one that evaluates to true, in which case the rest are skipped
+
+``` python
+if TEST1:
+   STATEMENTS1
+elif TEST2:
+   STATEMENTS2
+...
+else:
+   ELSE_STATEMENTS
+```
+  where the last ```else``` clause can be omitted.
+  
 ``` python
 percent = float(input("What percentage did you earn? "))
 
@@ -79,17 +94,4 @@ else:
 print('bye')
 ```
   
-## Nested if/elif/else
-Finally, if there are multiple tests we can use the if/elif/else statement
-to try each one in turn until we find one that evaluates to true, in which case the rest are skipped
 
-``` python
-if TEST1:
-   STATEMENTS1
-elif TEST2:
-   STATEMENTS2
-...
-else:
-   ELSE_STATEMENTS
-```
-  where the last ```else``` clause can be omitted.
