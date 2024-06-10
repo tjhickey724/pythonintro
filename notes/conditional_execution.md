@@ -26,13 +26,27 @@ The typical way to get a boolean value is by comparing numbers with one of the s
 * x>=y  greater than or equal
 * x==y  equal
 * x!=y  not equal
+
+Python also allows multicomparisons
+* 2 < x <= 10
+* 100 >= x > 93
   
 We can also combine the relations with boolean operators
 * E and F   both E and F are true
 * E or F    either E or F or both are true
 * not E     E is false
 
+For example
+* (1<x) and (x < 100)
+* (x<5) or (x==10)
+
 and these can be combined using paraentheses or boolean PEMDAS, where ```not``` binds tightest, then ```and``` then ```or``
+
+## Membership
+We can test for membership 
+* x in [1,3,5,7]
+* y in {5,6,7}
+* vowel in "aeiou"
   
 ## if/else
 We can also specify two outcomes depending on the result of the test with the if/else statement
