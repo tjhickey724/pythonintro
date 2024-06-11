@@ -75,4 +75,17 @@ while True:
     print('the square root of x is',x**0.5)
 ```
 
+We can rewrite this without continue or break as follows:
+``` python
+print('Calcuate square roots and enter zero to quit')
+x = float(input("Enter a positive number: "))
+while x != 0:
+    if x<0:
+        print("you were supposed to enter positive numbers!!")
+    else:
+        print('the square root of x is',x**0.5)
+    x = float(input("Enter a positive number: "))
+print("Done!")
+```
+
 How does this differ from the previous program?
