@@ -13,6 +13,23 @@ and it repeats the process by evaluating the TEST again, etc.
 if the TEST evaluates to a False value, then it skips the
 statements and the while loops is complete.
 
+## while loops to read in a list of values with a sentinel
+A common use of while loops is to prompt the user for a sequence
+of input ending with some particular value and to store the values
+in a list or do some other computation on those values. Here is
+an example
+
+``` python
+values = []
+print('enter positive numbers ending with a zero')
+value = int(input("> "))
+while value>0:
+    values = values + [value]
+    value = int(input("> "))
+print('you entered',values)
+print('here is the sorted list of unique values',sorted(set(values)))
+```
+
 ### the ```break``` statement
 Inside a loop, one can use the ```break``` statement to end the loop.
 In general though it is better to use the TEST to end the loop rather
