@@ -40,3 +40,12 @@ print('i=',i)
 print('i*i=',i*i)
 ```
 
+We can replace the for loop with an equivalent while loop as follows:
+``` python
+i=0
+while i<4:
+    print('i=',i)
+    print('i*i=',i*i)
+    i+=1
+print('Done')
+```
