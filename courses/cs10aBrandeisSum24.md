@@ -39,6 +39,9 @@
 ## L06: Tue 6/11/2023
 * [while loops](../notes/while_loops.md)
 * [for loops](../notes/for_loop_basic.md)
+* [ranges](../notes/range.md)
+
+  
 
 
 ---
