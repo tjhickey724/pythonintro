@@ -40,6 +40,7 @@
 * [while loops](../notes/while_loops.md)
 * [for loops](../notes/for_loop_basic.md)
 * [ranges](../notes/range.md)
+* [for loops and lists](lists2.md)
 
   
 
