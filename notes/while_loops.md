@@ -44,6 +44,18 @@ while True:
         break;
     print('the square root of x is',x**0.5)
 ```
+We can avoid the break statement by rewriting the loop as follows:
+``` python
+print('Calcuate square roots and enter zero to quit')
+x = float(input("Enter a positive number: "))
+
+while x> 0:
+    print('the square root of x is',x**0.5)
+    x = float(input("Enter a positive number: "))
+print("you were supposed to enter positive numbers!!")
+
+print('done')
+```
 
 How would you rewrite this without the break?
 
