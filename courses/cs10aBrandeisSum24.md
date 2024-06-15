@@ -51,7 +51,9 @@
 
 ## L07: Mon 6/17/2023
 * [simple functions](../notes/functions_basic.md)
-* 
+* [refactoring](../notes/functions_refactoring.md)
+* [functions with parameters](../notes/functions_parameters)
+* [functions returning values](../notes/functions_returning_useful_values.md)
 
 
 ## L08: Tue 6/18/2023
