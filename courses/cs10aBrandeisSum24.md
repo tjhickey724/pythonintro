@@ -50,6 +50,8 @@
 # Week 3: Strings, Lists, and Files
 
 ## L07: Mon 6/17/2023
+* [simple functions](../notes/functions_basic.md)
+* 
 
 
 ## L08: Tue 6/18/2023
