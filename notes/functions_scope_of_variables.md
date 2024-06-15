@@ -108,7 +108,7 @@ This is generally not a good practice, but we include it here so if you see it
 in the future you'll understand the code.
 
 ``` python
-square_counter = 0
+counter = 0
 
 def square(x):
     global counter
