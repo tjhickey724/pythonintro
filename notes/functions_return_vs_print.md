@@ -32,8 +32,8 @@ For example, if we wanted to calculate 3*3+4*4 using our square function, it wor
 25
 ```
 but doesn't work with the version which just prints the square and doesn't return it.
-In this case it prints out 3*3 and 4*4 but returns a value called "none_type" and tries
-to add those two none_types together!
+In this case it prints out 3*3 and 4*4 but returns a value called "None" and tries
+to add those two "None"s together, which generates an error!
 ``` python
 >>> square_p(3)+square_p(4)
 9
@@ -43,5 +43,5 @@ Traceback (most recent call last):
 TypeError: unsupported operand type(s) for +: 'NoneType' and 'NoneType'
 ```
 
-A function which doesn't have a return statement inside will always return a special value called "none_type"
+A function which doesn't have a return statement inside will always return a special value called "None"
 and that value is generally not very useful!
