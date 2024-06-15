@@ -107,6 +107,9 @@ declare the variable to be "global" in the body of the function.
 This is generally not a good practice, but we include it here so if you see it
 in the future you'll understand the code.
 
+The following code counts the number of times the square function is called
+by using a global variable "counter" that gets modified inside the square function.
+
 ``` python
 counter = 0
 
