@@ -101,3 +101,22 @@ What are the disadvantages of using Global Variables like this?
 
 Why would it be better to use the return function?
 
+## Modifying Global variables inside a function
+If you want to modify a global variable from inside a function you must 
+declare the variable to be "global" in the body of the function.
+This is generally not a good practice, but we include it here so if you see it
+in the future you'll understand the code.
+
+``` python
+square_counter = 0
+
+def square(x):
+    global counter
+    counter = counter + 1
+    return x*x
+
+print(counter)
+for x in range(5,100,10):
+    print(square(x))
+print(f'counter={counter}')
+```
