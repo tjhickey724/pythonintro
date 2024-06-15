@@ -14,7 +14,7 @@ def square_p(x):
     y = x*x
     print(y)
 
-def square2=_r(x):
+def square_r(x):
     y = x*x
     return y
 ```
