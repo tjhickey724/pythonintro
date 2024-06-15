@@ -28,7 +28,7 @@ Hello World!
 How are you, today?
 
 ```
-
+## Defining a function with no parameters
 In general, the syntax for defining this simple form of a function is
 ``` python
 def NAME():
@@ -49,6 +49,7 @@ which are all indented the same amount (usually with a tab or 4 spaces)
 For now, the statements are either print statements
 or function calls!
 
+## Calling a function with no parameters
 and the syntax for calling such a function is
 ``` python
 NAME()
