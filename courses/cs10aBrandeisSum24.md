@@ -54,7 +54,7 @@
 * [refactoring](../notes/functions_refactoring.md)
 * [functions with parameters](../notes/functions_parameters.md)
 * [functions returning values](../notes/functions_returning_useful_values.md)
-* [whether to use return or print in a function](functions_return_vs_print.md)
+* [whether to use return or print in a function](../notes/functions_return_vs_print.md)
 
 
 ## L08: Tue 6/18/2023
