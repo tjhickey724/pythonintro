@@ -2,9 +2,50 @@
 ## Scope of variables in functions
 Scope refers to the places in a program that the values of a particular variable can be accessed and/or changed.
 
+Code which is running in the body of a function has access to variables in 3 different scopes:
+### built-in scope
+These are the variables that are defined by Python such as print and input you can access them with dir(__builtins__).
+Try this code
+``` python
+for x in dir(__builtins__):
+    print(x)
+```
+
+### local scope
+These are the variable defined in the function, including the parameters and any other variables that appear in the body
+For example
+``` python
+def box_volumn(width, height, depth):
+    vol = width*height*depth
+    return vol
+```
+The local variables of box_volume are ```width, height, depth``` and ```vol```
+The only code which access these variables is the code inside that function...
+
+### global scope
+These are the variables whose values are defined outside of any function
+For example
+``` python
+debugging = True
+
+def square(x):
+    if debugging:
+        print(f'inside square function with parameter x={x}')
+    s = x*x
+    if debugging:
+        print(f'square returns the value s={s}')
+    return s
+```
+In the function above, if debugging is True then ```square``` will print info about the function begin called and returning;
+otherwise it will just return thd square.
+
+## Scope rules
 The simple rules are that 
 * all variables defined in the global frame (i.e. outside of any functions) can be accessed anywhere in the program, including inside function bodies,
 * none of the global variables can be modified from inside a function (unless there is a global declaration in the function)
+* local variables are only visible in the function where they are defined
+* builtin variables are visible everywhere unless a global or local variale of the same name is in the scope.
+
 
 ## Global variables can be viewed from anywhere in a program
 Here is an example of a typical Python function to convert degrees to radians:
