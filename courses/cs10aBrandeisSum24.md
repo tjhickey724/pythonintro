@@ -58,6 +58,7 @@
 
 
 ## L08: Tue 6/18/2023
+* [scope of variables in functions](../notes/functions_scope_of_variables.md)
 
 
 ## L09: Thu 6/20/2023
