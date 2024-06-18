@@ -18,8 +18,8 @@ radians = degToRadian(degrees)
 print('The degrees converted to radians is', radians)
 ```
 One common mistake is to omit the parameter (d) 
-and in this case, the program would still produce the right answer
-as the "d" in the body of the function would refer to the global variable "d"
+This will raise an error because the variable d in the body is not defined anywhere.
+
 ``` python
 import math
 def degToRadian():  # the parameter was accidentally omitted
@@ -29,7 +29,7 @@ degrees = float(input("The degree is: "))
 radians = degToRadian()
 print('The degrees converted to radians is', radians)
 ```
-This will raise an error because the variable d in the body is not defined anywhere.
+
 
 A slight modification of the program would work however, if the global variable was called "d" and not "degrees"
 ``` python
