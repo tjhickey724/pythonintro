@@ -48,6 +48,7 @@ The simple rules are that
 
 
 ## Global variables can be viewed from anywhere in a program
+## but don't use global variables to pass data to functions!!!
 Here is an example of a typical Python function to convert degrees to radians:
 ``` python
 import math
