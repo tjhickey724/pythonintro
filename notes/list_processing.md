@@ -48,7 +48,26 @@ For example to square all of the elements in a list we could run the following c
 nums = list(range(1,1001))
 result =[]
 for num in nums:
-    result = result.append(num*num)
+    result.append(num*num)  # or result = result + [num*num]
 print(f'the list of square of the elements in {result}')
+```
+
+## Filtering
+Another useful operation on lists is to find the sublist of elements that pass some test.
+These loops have the following form:
+``` python
+result = []
+for item in items:
+    if item passes the test:
+        result.append(item)
+```
+For example, to filter a list to contain only long words (length >4) we could use
+``` python
+words = "Two roads divereged in a yellow wood and sorry I could not travel both long I stood and looked down one as car as I could to where it bent in the underbrush"
+result = []
+for word in words:
+    if len(word)>4:
+        result.append(word)
+print(f'the long words are {result})
 ```
 
