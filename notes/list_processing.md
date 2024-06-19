@@ -33,3 +33,22 @@ for word in words:
         result = len(word)
 print(f'the longest word in the sentence has length {result}')
 ```
+
+## Mapping
+this is the case where we generate a new list by applying some function to every element of the original list.
+These loops have the following form:
+``` python
+result = []
+for item in items:
+   new_item = some function applied to item
+    result = result.append(new_item)
+```
+For example to square all of the elements in a list we could run the following code:
+```
+nums = list(range(1,1001))
+result =[]
+for num in nums:
+    result = result.append(num*num)
+print(f'the list of square of the elements in {result}')
+```
+
