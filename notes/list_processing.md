@@ -14,7 +14,7 @@ These programs all have the same basic pattern shown below:
 ``` python
 result = ...starting value...
 for item in list_of_items:
-    update result based on the item
+    result = update result based on the item
 ```
 For example, to find the sum of the numbers is in a list of numbers we would use
 ``` python
