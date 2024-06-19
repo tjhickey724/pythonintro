@@ -57,5 +57,63 @@ be renamed .....
 We should load this text file into vscode and delete the prolog and epilogue before
 processing (though we could also use Python to do this!!)
 
+We will assume that you have done that and so the file frankenstein.txt contains
+only the text of the novel and no meta-data.
+
+You can also do this with any plain text file (e.g. Romeo and Juliet, or a text in any language!)
+
+## Reading in the data as a string
+We can read the data into a python variable as a very long string using the following code:
+``` python
+filename = "frankenstein.txt"
+file = open(filename,'r')
+text = file.read()
+file.close()
+```
+
+## Descriptive Analysis
+We can easily find the size of the text in characters, words, lines, paragraphs.
+For example for characters and words we would do
+``` python
+print(f'number of characters is {len(text)}')
+words = text.split()
+print(f'number of words is {len(words)}')
+```
+How would you find the number of lines (hint: split the text on newlines '\n')
+or paragraphs (split on '\n\n')
+
+Likewise, we can find the number of unique word by converting words into a set!
+```
+unique_words = set(words)
+```
+How many unique 'words' are in Frankenstein...
+
+Note: this is a little misleading because text.split() uses white space to split the text into "words"
+but this will include punctuation, so "help" "help." "help?", "help," and "help!" will all be different words.
+To be more precise, we should remove punctuation from the end of words!! How would you do this?
+
+## Creating a concordance
+When learning a language is is useful to find all examples of how a word is used.
+The list of all occurrences of a word in a text, with context, is called a **concordance**
+Let's look at how to build a concordance using Python for a given text.
+
+The main idea is to print all lines of a text that contain a particular word.
+Here is the simplest approach
+``` python
+filename = "frankenstein.txt"
+file = open(filename,'r')
+text = file.read()
+file.close()
+
+lines = text.split('\n')
+
+word = input("What word to you want to look for? ")
+for line in lines:
+    if word in line:
+        print(line)
+```
+
+
+
 
 
