@@ -112,6 +112,20 @@ for line in lines:
     if word in line:
         print(line)
 ```
+We could also iterate through the indices of the lines:
+```
+for i in range(len(lines)):
+    line = lines[i]
+    if word in line:
+        print(line)
+```
+The advantage of this approach is that we could extend it to print the lines before and after the line containing the word
+
+## Coding exercises
+* How would you count the number of lines containing a given word?
+* How would you print the line number in addition to the line in a concordance?
+* How could you print lines containing two different words?
+* How can you combine all of the above calculations into one program?
 
 
 
