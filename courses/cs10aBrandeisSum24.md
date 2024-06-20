@@ -62,6 +62,7 @@
 
 
 ## L09: Thu 6/20/2023
+* [reading from a file](../notes/files.md)
 * [Eliza and Chatbots](../notes/chatbots.md)
 
 
