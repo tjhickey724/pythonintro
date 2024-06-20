@@ -62,8 +62,12 @@
 
 
 ## L09: Thu 6/20/2023
+*
 * [reading from a file](../notes/files.md)
+* [text processing](../notes/text_processing.md)
 * [Eliza and Chatbots](../notes/chatbots.md)
+* [accumulation loops](../notes/accumulation_loops.md)
+* [comprehensions](../comprehensions.md)
 
 
 ---
