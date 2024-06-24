@@ -74,7 +74,7 @@
 
 ## L10: Mon 6/24/2023  Tuples, Sets, and Dictionaries, Randomness and Games
 * [accumulation loops](../notes/accumulation_loops.md)
-* [comprehensions](../comprehensions.md)
+* [comprehensions](../notes/comprehensions.md)
 
 ## L11: Tue 6/25/2023 | Data Science - databases
 
