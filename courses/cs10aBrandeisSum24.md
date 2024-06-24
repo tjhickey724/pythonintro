@@ -65,15 +65,16 @@
 * [reading from a file](../notes/files.md)
 * [text processing](../notes/text_processing.md)
 * [Eliza and Chatbots](../notes/chatbots.md)
-* [accumulation loops](../notes/accumulation_loops.md)
-* [comprehensions](../comprehensions.md)
+
 
 
 ---
 
 # Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
 
-## L10: Mon 6/24/2023  Tuples, Sets, and Dictionaries
+## L10: Mon 6/24/2023  Tuples, Sets, and Dictionaries, Randomness and Games
+* [accumulation loops](../notes/accumulation_loops.md)
+* [comprehensions](../comprehensions.md)
 
 ## L11: Tue 6/25/2023 | Data Science - databases
 
