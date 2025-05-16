@@ -1,4 +1,4 @@
-# Formatted Printing
+# printf style Formatted Printing
 When we use Python to print out a table of numbers, we like the values to line up neatly in columns.
 Python has many ways to do that.  We saw how to use f strings earlier. Here is another approach which is similar.
 
