@@ -6,11 +6,11 @@
 # Week 1: Variables, Expressions, and VScode
 
 ## L01: Wed 6/4/2025
+* [python environments](../notes/python_environments.md)
 * [printing strings](../notes/printing_strings.md)
 * [variable-naming](../notes/variable_naming.md)
 * [Python Arithmetic](../notes/python_arithmetic.md)
 * [Variables](../notes/variables.md)
-* [Formatted Printing](../notes/formatted_printing.md)
 
 
 ## L02: Thu 6/5/2025
