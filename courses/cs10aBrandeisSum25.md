@@ -26,7 +26,9 @@ of the OpenStax text.
 
 
 ## L02: Thu 6/5/2025 -- Expressions
-Today we cover Chapter 2: Expressions in the OpenStax text.
+Today we cover 
+[Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
+in the OpenStax text.
 ### Additional notes
 * [setup the vscode environment](../notes/vscode.md)
 * [string operations](../notes/string_operations.md)
