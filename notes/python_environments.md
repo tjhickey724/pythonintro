@@ -17,6 +17,9 @@ in exactly the same way that Python tutor illustrates..
 Python Tutor is the environment we will use for the first few days in the course, and then we
 will return to it when we introduce new concepts to help you develop your mental model.
 
+### [Brython](https://brython.org)
+This is an online Python interpreter which is convenient for writing and testing small pieces of code.
+
 ### [VScode](https://code.visualstudio.com/)
 Visual Studio Code is probably the Integrated Development Environment
 which is most widely used by Professional Developers and Computer Science students.
