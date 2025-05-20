@@ -100,16 +100,21 @@ of the OpenStax textbook
 
 # Week 3: Strings, Lists, and Files
 
-## L07: Mon 6/16/2025
+## L07: Mon 6/16/2025 Modules
+Today we cover 
+[Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
+of the OpenStax textbook.
+### Additional Notes:
 * [scope of variables in functions](../notes/functions_scope_of_variables.md)
 
+---
 
 ## L08: Tue 6/17/2025
 * [reading from a file](../notes/files.md)
 * [text processing](../notes/text_processing.md)
 * [Eliza and Chatbots](../notes/chatbots.md)
 
-
+---
 
 ## L09: Wed 6/18/2025  Tuples, Sets, and Dictionaries, Randomness and Games
 * [accumulation loops](../notes/accumulation_loops.md)
