@@ -3,9 +3,12 @@
 
 ---
 
+
 # Week 1: Variables, Expressions, and VScode
 
 ## L01: Wed 6/4/2025
+Today we review the syllabus and discuss the learning objectives for the course.
+We spend most of the lesson learning how to write straight-line programs
 * [python environments](../notes/python_environments.md)
 * [printing strings](../notes/printing_strings.md)
 * [variable-naming](../notes/variable_naming.md)
