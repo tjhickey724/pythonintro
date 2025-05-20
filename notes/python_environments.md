@@ -1,5 +1,13 @@
 # Python Resources
 
+---
+
+* [Python Environments](#Python Environments)
+* [Python Tutorials and Textbooks](#Python Tutorials and Textbooks)
+
+---
+
+
 ## Python Environments
 
 In this class we will get experience writing and running Python programs in several different environments.
