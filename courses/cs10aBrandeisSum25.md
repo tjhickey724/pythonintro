@@ -14,7 +14,9 @@
 
 ## L01: Wed 6/4/2025  -- Variables, Expressions, and Environments
 Today we review the syllabus and discuss the learning objectives for the course.
-We spend most of the lesson learning how to write straight-line programs from Chapter 1: Statements of the OpenStax text.
+We spend most of the lesson learning how to write straight-line programs from 
+[Chapter 1: Statements](https://openstax.org/books/introduction-python-programming/pages/1-introduction)
+of the OpenStax text.
 ### Additional notes
 * [python environments](../notes/python_environments.md)
 * [printing strings](../notes/printing_strings.md)
