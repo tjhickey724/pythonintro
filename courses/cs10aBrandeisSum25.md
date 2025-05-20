@@ -4,7 +4,7 @@
 ---
 ## Textbooks
 * [Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming)
-* zybook: CS10a Introduction to Problem Solving in Python -- used for assessment
+* zybook: CS10a Introduction to Problem Solving in Python -- used for assessment, cost is $89
   1. Sign in or create an account at learn.zybooks.com
   2. Enter zyBook code: BRANDEISCOSI10AHickeySummer2025
   3. Subscribe
