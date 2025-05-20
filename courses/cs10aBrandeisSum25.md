@@ -1,6 +1,6 @@
 # CS10a: Introduction to Problem Solving in Python
 ## Summer 2025, Brandeis University, Intructor: Tim Hickey 
-## [Resources](../notes/python-environments.md) - texts, environments, LLMs
+## [Resources](../notes/python_environments.md) - texts, environments, LLMs
 ---
 ## Textbooks
 * [OpenStax.org: Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming) free online textbook
