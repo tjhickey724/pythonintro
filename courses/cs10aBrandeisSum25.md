@@ -133,28 +133,45 @@ Today we cover
 
 # Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
 
+---
 
-## L10: Mon 6/23/2025 | Tuples, Sets, and (Im)Mutability
+## L10: Mon 6/23/2025 | Dictionaries
+Today we discuss
+[Chapter 10: Dictionaries](https://openstax.org/books/introduction-python-programming/pages/10-introduction)
+### Additional Notes:
+* none
 
+---
 
-## L11: Tue 6/24/2025  Image Processing and 2D arrays
+## L11: Tue 6/24/2025  Tuples, Sets, and Mutability
 
+---
 
-## L12: Wed 6/25/2025 Data Science - structured data
+## L12: Wed 6/25/2025 Multidimensional Arrays
 
+---
 
-## L13: Thu 6/26/2025 Algorithms
+## L13: Thu 6/26/2025 Data Science - Structured Data
+
+---
+
 ---
 
 # Week 5
 
+---
 
-## L14: Mon 6/30/2025 Object Oriented Programming in Python
+## L14: Mon 6/30/2025 Classes and Object Oriented Programming in Python
 
+---
 
 ## L15: Tue 7/1/2025
 
+---
+
 ## L16: Wed 7/2/2025
+
+---
 
 ## L17: Thu 7/3/2025
 
