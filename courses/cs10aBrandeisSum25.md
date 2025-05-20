@@ -40,6 +40,10 @@ in the OpenStax text.
 # Week 2: Conditionals, While loops, Problem Solving
 
 ## L03: Mon 6/9/2025
+Today we cover 
+[Chapter 3: Objects](https://openstax.org/books/introduction-python-programming/pages/3-introduction)
+of the OpenStax textbook
+### Additional Notes:
 * [lists](../notes/lists.md)
 * [tuples](../notes/tuples.md)
 * [sets](../notes/sets.md)
