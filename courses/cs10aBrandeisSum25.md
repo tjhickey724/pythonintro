@@ -98,7 +98,7 @@ of the OpenStax textbook
 
 ---
 
-# Week 3: Strings, Lists, and Files
+# Week 3: Modules, Strings, and Lists
 
 ## L07: Mon 6/16/2025 Modules
 Today we cover 
@@ -109,14 +109,20 @@ of the OpenStax textbook.
 
 ---
 
-## L08: Tue 6/17/2025
+## L08: Tue 6/17/2025 Strings
+Today we cover
+[Chapter 8: Strings](https://openstax.org/books/introduction-python-programming/pages/8-introduction)
+### Additional Notes:
 * [reading from a file](../notes/files.md)
 * [text processing](../notes/text_processing.md)
 * [Eliza and Chatbots](../notes/chatbots.md)
 
 ---
 
-## L09: Wed 6/18/2025  Tuples, Sets, and Dictionaries, Randomness and Games
+## L09: Wed 6/18/2025  Lists
+Today we cover
+[Chapter 9: Lists](https://openstax.org/books/introduction-python-programming/pages/9-introduction)
+### Additional notes:
 * [accumulation loops](../notes/accumulation_loops.md)
 * [comprehensions](../notes/comprehensions.md)
 
@@ -128,7 +134,7 @@ of the OpenStax textbook.
 # Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
 
 
-## L10: Mon 6/23/2025 | Data Science - databases
+## L10: Mon 6/23/2025 | Tuples, Sets, and (Im)Mutability
 
 
 ## L11: Tue 6/24/2025  Image Processing and 2D arrays
