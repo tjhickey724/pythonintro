@@ -2,14 +2,10 @@
 
 ---
 
-* [abc](#abc)
 * [Python Environments](#Python_Environments)
 * [Python Tutorials and Textbooks](#Python_Tutorials_and_Textbooks)
+* [LLMS](#LLMs)
 
----
-
-## abc
-def ghi
 
 ---
 
@@ -43,6 +39,8 @@ will be our main environment.
 ### [Google Colab/Jupyter notebooks](https://colab.research.google.com/)
 This is an online environment for writing Python programs and documentation explaining the code.
 
+---
+
 ## Python_Tutorials_and_Textbooks
 
 ### [OpenStax.org: Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming) free online textbook
@@ -51,7 +49,9 @@ This is an online environment for writing Python programs and documentation expl
   2. Enter zyBook code: BRANDEISCOSI10AHickeySummer2025
   3. Subscribe
 
-## LLMs -- Large Language Models
+---
+
+## LLMs
 
 ### [Gemini](https://gemini.google.com/app)
 Google's LLM which is good at generating and explaining code, and is free.
