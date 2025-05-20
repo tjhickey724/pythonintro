@@ -84,7 +84,7 @@ of the OpenStax textbook
 
 ## L06: Thu 6/12/2025
 Today we cover
-{Chapter 6: Functions](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
+[Chapter 6: Functions](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
 of the OpenStax textbook
 ### Additional Notes:
 * [simple functions](../notes/functions_basic.md)
