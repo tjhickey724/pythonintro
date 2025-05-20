@@ -2,14 +2,14 @@
 
 ---
 
-* [Python Environments](#Python_Environments)
-* [Python Tutorials and Textbooks](#Python_Tutorials_and_Textbooks)
-* [LLMS](#LLMs)
+* [Python Environments](#python-environments)
+* [Python Tutorials and Textbooks](#python-tutorials-and-textbooks)
+* [LLMS](#llms)
 
 
 ---
 
-## Python_Environments
+## Python Environments
 
 In this class we will get experience writing and running Python programs in several different environments.
 In this note we give an overview of some of these:
@@ -41,7 +41,7 @@ This is an online environment for writing Python programs and documentation expl
 
 ---
 
-## Python_Tutorials_and_Textbooks
+## Python Tutorials and Textbooks
 
 ### [OpenStax.org: Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming) free online textbook
 ### zybook: CS10a Introduction to Problem Solving in Python -- used for assessment, cost is $89
