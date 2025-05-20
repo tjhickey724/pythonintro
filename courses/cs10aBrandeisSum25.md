@@ -2,9 +2,15 @@
 ## Summer 2025, Brandeis University, Intructor: Tim Hickey 
 
 ---
+## Textbooks
+* [Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming)
+* zybook: CS10a Introduction to Problem Solving in Python -- used for assessment
+  1. Sign in or create an account at learn.zybooks.com
+  2. Enter zyBook code: BRANDEISCOSI10AHickeySummer2025
+  3. Subscribe
 
 
-# Week 1: Variables, Expressions, and VScode
+# Week 1: Straightline programs  -- Variables, Expressions, and Environments
 
 ## L01: Wed 6/4/2025
 Today we review the syllabus and discuss the learning objectives for the course.
