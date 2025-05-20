@@ -44,9 +44,10 @@ This is an online environment for writing Python programs and documentation expl
 ## Python Tutorials and Textbooks
 
 ### [OpenStax.org: Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming) 
-free online textbook
+free online textbook. We will use this during the lessons.
+
 ### [zybook: CS10a Introduction to Problem Solving in Python](https://learn.zybooks.com)
-used for assessment, cost is $89
+This will be used primarily for assessment, the cost is $89
   1. Sign in or create an account at learn.zybooks.com
   2. Enter zyBook code: BRANDEISCOSI10AHickeySummer2025
   3. Subscribe
