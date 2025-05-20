@@ -3,8 +3,8 @@
 ---
 
 * [abc](#abc)
-* [Python Environments](#Python\ Environments)
-* [Python\ Tutorials\ and\ Textbooks](#Python Tutorials and Textbooks)
+* [Python Environments](#Python_Environments)
+* [Python\ Tutorials\ and\ Textbooks](#Python_Tutorials_and_Textbooks)
 
 ---
 
@@ -13,7 +13,7 @@ def ghi
 
 ---
 
-## Python Environments
+## Python_Environments
 
 In this class we will get experience writing and running Python programs in several different environments.
 In this note we give an overview of some of these:
@@ -43,7 +43,7 @@ will be our main environment.
 ### [Google Colab/Jupyter notebooks](https://colab.research.google.com/)
 This is an online environment for writing Python programs and documentation explaining the code.
 
-## Python Tutorials and Textbooks
+## Python_Tutorials_and_Textbooks
 
 ### [OpenStax.org: Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming) free online textbook
 ### zybook: CS10a Introduction to Problem Solving in Python -- used for assessment, cost is $89
