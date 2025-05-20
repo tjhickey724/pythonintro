@@ -1,5 +1,5 @@
 # CS10a: Introduction to Problem Solving in Python
-## Summer 2025, Brandeis University, Intructor: Tim Hickey 
+## Summer 2025, Brandeis University, Instructor: Tim Hickey 
 ## [Resources](../notes/python_environments.md) - texts, environments, LLMs
 ---
 ## Textbooks
@@ -14,7 +14,8 @@
 
 ## L01: Wed 6/4/2025
 Today we review the syllabus and discuss the learning objectives for the course.
-We spend most of the lesson learning how to write straight-line programs
+We spend most of the lesson learning how to write straight-line programs from Chapter 1: Statements of the OpenStax text.
+### Additional notes
 * [python environments](../notes/python_environments.md)
 * [printing strings](../notes/printing_strings.md)
 * [variable-naming](../notes/variable_naming.md)
@@ -22,7 +23,9 @@ We spend most of the lesson learning how to write straight-line programs
 * [Variables](../notes/variables.md)
 
 
-## L02: Thu 6/5/2025
+## L02: Thu 6/5/2025 -- Expressions
+Today we cover Chapter 2: Expressions in the OpenStax text.
+### Additional notes
 * [setup the vscode environment](../notes/vscode.md)
 * [string operations](../notes/string_operations.md)
 
