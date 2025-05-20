@@ -4,7 +4,7 @@
 
 * [abc](#abc)
 * [Python Environments](#Python_Environments)
-* [Python\ Tutorials\ and\ Textbooks](#Python_Tutorials_and_Textbooks)
+* [Python Tutorials and Textbooks](#Python_Tutorials_and_Textbooks)
 
 ---
 
