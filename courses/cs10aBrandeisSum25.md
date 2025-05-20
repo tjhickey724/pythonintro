@@ -9,6 +9,9 @@
   2. Enter zyBook code: BRANDEISCOSI10AHickeySummer2025
   3. Subscribe
 
+---
+
+---
 
 # Week 1: Straightline programs 
 
@@ -24,6 +27,7 @@ of the OpenStax text.
 * [Python Arithmetic](../notes/python_arithmetic.md)
 * [Variables](../notes/variables.md)
 
+---
 
 ## L02: Thu 6/5/2025 -- Expressions
 Today we cover 
@@ -39,6 +43,8 @@ in the OpenStax text.
 
 # Week 2: Conditionals, While loops, Problem Solving
 
+---
+
 ## L03: Mon 6/9/2025
 Today we cover 
 [Chapter 3: Objects](https://openstax.org/books/introduction-python-programming/pages/3-introduction)
@@ -50,7 +56,7 @@ of the OpenStax textbook
 * [dictionaries](../notes/dictionaries.md)
 
 
-
+---
 
 ## L04: Tue 6/10/2025
 Today we cover 
@@ -59,6 +65,7 @@ of the OpenStax textbook
 ### Additional Notes:
 * [conditionals](../notes/conditional_execution.md)
 
+---
 
 ## L05: Wed 6/11/2025
 Today we cover
@@ -70,11 +77,16 @@ of the OpenStax textbook
 * [ranges](../notes/range.md)
 * [for loops and lists](../notes/lists2.md)
 
+---
   
 
 
 
 ## L06: Thu 6/12/2025
+Today we cover
+{Chapter 6: Functions](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
+of the OpenStax textbook
+### Additional Notes:
 * [simple functions](../notes/functions_basic.md)
 * [refactoring](../notes/functions_refactoring.md)
 * [functions with parameters](../notes/functions_parameters.md)
