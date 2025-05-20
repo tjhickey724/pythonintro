@@ -2,8 +2,8 @@
 
 ---
 
-* [Python Environments](#Python Environments)
-* [Python Tutorials and Textbooks](#Python Tutorials and Textbooks)
+* [Python Environments](#Python\ Environments)
+* [Python\ Tutorials\ and\ Textbooks](#Python Tutorials and Textbooks)
 
 ---
 
