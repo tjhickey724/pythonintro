@@ -53,10 +53,18 @@ of the OpenStax textbook
 
 
 ## L04: Tue 6/10/2025
+Today we cover 
+[Chapter 4: Decisionis](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
+of the OpenStax textbook
+### Additional Notes:
 * [conditionals](../notes/conditional_execution.md)
 
 
 ## L05: Wed 6/11/2025
+Today we cover
+[Chapter 5: Loops](https://openstax.org/books/introduction-python-programming/pages/5-introduction)
+of the OpenStax textbook
+### Additional Notes:
 * [while loops](../notes/while_loops.md)
 * [for loops](../notes/for_loop_basic.md)
 * [ranges](../notes/range.md)
