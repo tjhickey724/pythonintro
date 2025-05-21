@@ -43,7 +43,7 @@ We spend most of the lesson learning how to write straight-line programs from
 [Chapter 1: Statements](https://openstax.org/books/introduction-python-programming/pages/1-introduction)
 of the OpenStax text.
 
-### Zybook Homework due Tomorrow
+**Zybook Homework due Tomorrow**
 Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
 Submit a reflection about what you learned on the MLA app.
 
