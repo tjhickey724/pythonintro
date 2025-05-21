@@ -1,7 +1,7 @@
 # PA1
 This PA tests your understanding of variables, expressions and pytbon programming enviornments.
 
-## PL1 - a Lab assignment
+## LP1 - a Lab Programming Assignment
 Write a Python program which will compute the first four lines of an Amortization schedule.
 It should ask the user for the initial balance 'b', interest rate 'r', and payment amount 'a'
 
@@ -41,9 +41,35 @@ Create two short narrated Zoom movies (less than 60 seconds)
 1. where you show yourself running the program on these two inputs in VScode
 2. where you show yourself explaining what your program is doing and why it is correct. Don't read the program, explain it as if you were talking to another programmeer on your team
 
-Cut and paste your code into the Mastery Learning App textbox and add a comment at the top with your name, email, and links to your two movies.
+Cut and paste your code into the LP1 textbox in the Mastery Learning App and add a comment at the top with your name, email, and links to your two movies.
 
 Note - you should not use any loops or conditionals for this program just use input, print, float, and arithmetic.
       
 
-## PA1 - a Creative assignment
+## CP1 - a Creative Programming assignment
+
+Write a Python program which asks the user for their name
+and prompts them for some numbers (integers and/or floats) 
+and then does several calculations and prints out the answers nicely
+with formatted printing (so fix the number of digits after the decimal point).
+
+For example, you could write a program to convert dollars to different currencies.
+Ask the user for the amount of dollars and then convert that into several different currencies
+
+Or you could write a program to find the volumes of several different solids, 
+e.g. find the volume of a sphere by asking for the radius,
+then find the volume of a cylinder by asking for the radius and height,
+then ....
+
+Or you could write a program to calculate how much each person owes 
+if they go out to dinner and split the bill equally for a given tax and tip rate.
+
+Just pick something which demonstrates your ability to prompt the user for numbers, do calculations, 
+and print the results out in a nicely formatted way.
+
+Create 2 short narrated Zoom movies
+1. Showing you running your program in VScode and explaining how to use it
+2. Showing you explaining each line of your program and how it works.
+
+Cut/paste your code into the PA1 textbox in the Mastery Learning App and add a comment at the top with links to the two movies.
+            
