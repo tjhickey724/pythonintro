@@ -86,7 +86,7 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L03: Mon 6/9/2025
+## L03: Mon 6/9/2025 Objects and Types
 Today we cover 
 [Chapter 3: Objects](https://openstax.org/books/introduction-python-programming/pages/3-introduction)
 of the OpenStax textbook
@@ -104,9 +104,9 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L04: Tue 6/10/2025  Objects
+## L04: Tue 6/10/2025  Conditionals
 Today we cover 
-[Chapter 4: Decisionis](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
+[Chapter 4: Decisions](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
 of the OpenStax textbook
 
 **Zybook Homework due Tomorrow:** 
@@ -139,12 +139,12 @@ Submit a reflection about what you learned on the MLA app.
 
 
 ## L06: Thu 6/12/2025 Review and Practice
-
+Today we get more practice with analyzing Python programs.
 ---
 
 ---
 
-# Week 3: Modules, Strings, and Lists
+# Week 3: Functions, Strings, and Lists
 
 ## L07: Mon 6/16/2025 Functions
 Today we cover
@@ -161,8 +161,6 @@ Submit a reflection about what you learned on the MLA app.
 * [functions with parameters](../notes/functions_parameters.md)
 * [functions returning values](../notes/functions_returning_useful_values.md)
 * [whether to use return or print in a function](../notes/functions_return_vs_print.md)
-
-
 
 
 ### Additional Notes:
