@@ -13,7 +13,29 @@
 
 ---
 
+## Programming Projects -- due each Monday
+The goal of the programming projects is to assess your ability to write
+and understand python programs.
+The weekly projects consist of 2 types of programming assignments:
+* a lab assignment where you show you can use the concepts you learned to solve a problem given by the instructor
+* a creative assignment where you show you can use the concepts you learned to solve a problem of your own creation
+
+For both assignments you will need to submit the python code and it should contain a comment at the top with your name and email and links to two short movies (2 minutes each). 
+* The first movie shows you running the program and explanining what it does and why its answers are correct.
+* The second movie show you explaining how the code works.
+
+For each assignment, there will be more information about what the 2 movies should contain. The goal here is for you and the instructor to validate that you have mastered the skills needed to write and understand programs using the features we have learned up to that point.  
+
+If your videos do not clearly show that you fully understand the features used in your programs, then you'll be asked to meet on Zoom with the instructor or a TA, to review the key concepts. You may be asked to make revisions to your code and to resubmit new videos....
+
+---
+
+---
+
 # Week 1: Straightline programs 
+## Programming Projects
+* [PL1](../projects/pl1) 
+
 
 ## L01: Wed 6/4/2025  -- Variables, Expressions, and Environments
 Today we review the syllabus and discuss the learning objectives for the course.
