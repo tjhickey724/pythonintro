@@ -77,7 +77,7 @@ Submit a reflection about what you learned on the MLA app.
 
 --- 
 
-# Week 2: Conditionals, While loops, Problem Solving
+# Week 2: Objects, Conditionals, Loops
 
 ---
 
@@ -104,7 +104,7 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L04: Tue 6/10/2025
+## L04: Tue 6/10/2025  Objects
 Today we cover 
 [Chapter 4: Decisionis](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
 of the OpenStax textbook
@@ -118,7 +118,7 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L05: Wed 6/11/2025
+## L05: Wed 6/11/2025  Loops
 Today we cover
 [Chapter 5: Loops](https://openstax.org/books/introduction-python-programming/pages/5-introduction)
 of the OpenStax textbook
@@ -138,7 +138,15 @@ Submit a reflection about what you learned on the MLA app.
 
 
 
-## L06: Thu 6/12/2025
+## L06: Thu 6/12/2025 Review and Practice
+
+---
+
+---
+
+# Week 3: Modules, Strings, and Lists
+
+## L07: Mon 6/16/2025 Functions
 Today we cover
 [Chapter 6: Functions](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
 of the OpenStax textbook
@@ -155,20 +163,7 @@ Submit a reflection about what you learned on the MLA app.
 * [whether to use return or print in a function](../notes/functions_return_vs_print.md)
 
 
----
 
----
-
-# Week 3: Modules, Strings, and Lists
-
-## L07: Mon 6/16/2025 Modules
-Today we cover 
-[Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
-of the OpenStax textbook.
-
-**Zybook Homework due Tomorrow:** 
-Read __Zybook Chapter 11: Modules__ of the Zybook and complete all of the exercises and labs in Chapter 11.
-Submit a reflection about what you learned on the MLA app.
 
 ### Additional Notes:
 * [scope of variables in functions](../notes/functions_scope_of_variables.md)
@@ -211,7 +206,20 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L10: Mon 6/23/2025 | Dictionaries
+## L10: Mon 6/23/2025 | Modules
+Today we cover 
+[Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
+of the OpenStax textbook.
+
+**Zybook Homework due Tomorrow:** 
+Read __Zybook Chapter 11: Modules__ of the Zybook and complete all of the exercises and labs in Chapter 11.
+Submit a reflection about what you learned on the MLA app.
+
+
+
+---
+
+## L11: Tue 6/24/2025  Dictionaries and Data Representation
 Today we discuss
 [Chapter 10: Dictionaries](https://openstax.org/books/introduction-python-programming/pages/10-introduction)
 ### Additional Notes:
@@ -219,15 +227,11 @@ Today we discuss
 
 ---
 
-## L11: Tue 6/24/2025  Tuples, Sets, and Mutability
-
----
-
 ## L12: Wed 6/25/2025 Multidimensional Arrays
 
 ---
 
-## L13: Thu 6/26/2025 Data Science - Structured Data
+## L13: Thu 6/26/2025 Review and Practice
 
 ---
 
