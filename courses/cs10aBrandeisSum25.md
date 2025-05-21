@@ -34,7 +34,7 @@ If your videos do not clearly show that you fully understand the features used i
 
 # Week 1: Straightline programs 
 ## Programming Projects
-* [PL1](../projects/pl1) 
+* [PL1](../projects/pa1) 
 
 
 ## L01: Wed 6/4/2025  -- Variables, Expressions, and Environments
