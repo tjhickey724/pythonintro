@@ -21,9 +21,8 @@ We spend most of the lesson learning how to write straight-line programs from
 [Chapter 1: Statements](https://openstax.org/books/introduction-python-programming/pages/1-introduction)
 of the OpenStax text.
 
-## Homework01
-### due tomorrow
-Read Chapter 1 of the Zybook and complete all of the exercises and labs.
+### Homework01 due tomorrow
+Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
 Submit a reflection about what you learned on the MLA app.
 
 ## Additional notes
@@ -40,9 +39,8 @@ Today we cover
 [Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
 in the OpenStax text.
 
-## Homework02
-### due tomorrow
-Read __Chapter 2: Variables and Expressions__ of the Zybook and complete all of the exercises and labs in Chapter 2.
+### Homework02 due tomorrow
+Read __Zybook Chapter 2: Variables and Expressions__ of the Zybook and complete all of the exercises and labs in Chapter 2.
 Submit a reflection about what you learned on the MLA app.
 
 ### Additional notes
@@ -62,9 +60,8 @@ Today we cover
 [Chapter 3: Objects](https://openstax.org/books/introduction-python-programming/pages/3-introduction)
 of the OpenStax textbook
 
-## Homework03
-### due tomorrow
-Read __Chapter 3: Types__ of the Zybook and complete all of the exercises and labs in Chapter 2.
+### Homework03 due tomorrow
+Read __Zybook Chapter 3: Types__ of the Zybook and complete all of the exercises and labs in Chapter 3.
 Submit a reflection about what you learned on the MLA app.
 
 ### Additional Notes:
@@ -80,6 +77,11 @@ Submit a reflection about what you learned on the MLA app.
 Today we cover 
 [Chapter 4: Decisionis](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
 of the OpenStax textbook
+
+### Homework04 due tomorrow
+Read __Zybook Chapter 4: Branching__ of the Zybook and complete all of the exercises and labs in Chapter 4.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional Notes:
 * [conditionals](../notes/conditional_execution.md)
 
@@ -89,6 +91,11 @@ of the OpenStax textbook
 Today we cover
 [Chapter 5: Loops](https://openstax.org/books/introduction-python-programming/pages/5-introduction)
 of the OpenStax textbook
+
+### Homework05 due tomorrow
+Read __Zybook Chapter 5: Loops__ of the Zybook and complete all of the exercises and labs in Chapter 5.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional Notes:
 * [while loops](../notes/while_loops.md)
 * [for loops](../notes/for_loop_basic.md)
@@ -104,6 +111,11 @@ of the OpenStax textbook
 Today we cover
 [Chapter 6: Functions](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
 of the OpenStax textbook
+
+ ### Homework06 due tomorrow
+Read __Zybook Chapter 6: Functions__ of the Zybook and complete all of the exercises and labs in Chapter 6.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional Notes:
 * [simple functions](../notes/functions_basic.md)
 * [refactoring](../notes/functions_refactoring.md)
@@ -122,6 +134,11 @@ of the OpenStax textbook
 Today we cover 
 [Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
 of the OpenStax textbook.
+
+ ### Homework07 due tomorrow
+Read __Zybook Chapter 11: Modules__ of the Zybook and complete all of the exercises and labs in Chapter 11.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional Notes:
 * [scope of variables in functions](../notes/functions_scope_of_variables.md)
 
@@ -130,6 +147,11 @@ of the OpenStax textbook.
 ## L08: Tue 6/17/2025 Strings
 Today we cover
 [Chapter 8: Strings](https://openstax.org/books/introduction-python-programming/pages/8-introduction)
+
+ ### Homework06 due tomorrow
+Read __Zybook Chapter 7: Strings__ of the Zybook and complete all of the exercises and labs in Chapter 7.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional Notes:
 * [reading from a file](../notes/files.md)
 * [text processing](../notes/text_processing.md)
