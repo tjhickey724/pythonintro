@@ -148,7 +148,7 @@ Submit a reflection about what you learned on the MLA app.
 Today we cover
 [Chapter 8: Strings](https://openstax.org/books/introduction-python-programming/pages/8-introduction)
 
- ### Homework06 due tomorrow
+ ### Homework08 due tomorrow
 Read __Zybook Chapter 7: Strings__ of the Zybook and complete all of the exercises and labs in Chapter 7.
 Submit a reflection about what you learned on the MLA app.
 
@@ -162,6 +162,11 @@ Submit a reflection about what you learned on the MLA app.
 ## L09: Wed 6/18/2025  Lists
 Today we cover
 [Chapter 9: Lists](https://openstax.org/books/introduction-python-programming/pages/9-introduction)
+
+ ### Homework09 due tomorrow
+Read __Zybook Chapter 8: Lists and Dictionaries__ of the Zybook and complete all of the exercises and labs in Chapter 8.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional notes:
 * [accumulation loops](../notes/accumulation_loops.md)
 * [comprehensions](../notes/comprehensions.md)
