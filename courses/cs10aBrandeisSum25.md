@@ -33,9 +33,13 @@ If your videos do not clearly show that you fully understand the features used i
 ---
 
 # Week 1: Straightline programs 
+
+---
+
 ## Programming Projects
 * [PA1](../projects/pa1) Programming Projects and Videos for Week 1
 
+---
 
 ## L01: Wed 6/4/2025  -- Variables, Expressions, and Environments
 Today we review the syllabus and discuss the learning objectives for the course.
@@ -74,6 +78,11 @@ Submit a reflection about what you learned on the MLA app.
 --- 
 
 # Week 2: Conditionals, While loops, Problem Solving
+
+---
+
+## Programming Projects
+* [PA2](../projects/pa2) Programming Projects and Videos for Week 1
 
 ---
 
