@@ -36,7 +36,7 @@ If your videos do not clearly show that you fully understand the features used i
 
 ---
 
-## Programming Projects
+## Week 1 Programming Projects (due Monday 6/9/25)
 * [PA1](../projects/pa1) Programming Projects and Videos for Week 1
 
 ---
@@ -81,8 +81,8 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## Programming Projects
-* [PA2](../projects/pa2) Programming Projects and Videos for Week 1
+## Week 2 Programming Projects (due Monday 6/16/2025)
+* [PA2](../projects/pa2) Programming Projects and Videos for Week 2
 
 ---
 
