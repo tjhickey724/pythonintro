@@ -60,6 +60,12 @@ This is an online environment for writing Python programs and documentation expl
 ---
 
 ## LLMs
+We encourage you to use LLMs in this class to help you learn how to program.
+Don't use it to do your homework, but do use it to explain concepts you don't understand
+and to explain what is happening when a program is running, and how to use a particular
+Python feature, and to generate programming problems for you if you want more practice,
+etc.  We will use gemini and claude in class to model how they can be helpful and to
+point out potential pitfalls.
 
 ### [Gemini](https://gemini.google.com/app)
 Google's LLM which is good at generating and explaining code, and is free.
