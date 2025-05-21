@@ -1,4 +1,4 @@
-# LP1 - a Lab Programming Assignment
+# LP1 - Amortization Calculator
 Write a Python program which will compute the first four lines of an Amortization schedule.
 It should ask the user for the initial balance 'b', interest rate 'r', and payment amount 'a'
 
