@@ -43,7 +43,7 @@ We spend most of the lesson learning how to write straight-line programs from
 [Chapter 1: Statements](https://openstax.org/books/introduction-python-programming/pages/1-introduction)
 of the OpenStax text.
 
-### Homework01 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
 Submit a reflection about what you learned on the MLA app.
 
@@ -61,7 +61,7 @@ Today we cover
 [Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
 in the OpenStax text.
 
-### Homework02 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 2: Variables and Expressions__ of the Zybook and complete all of the exercises and labs in Chapter 2.
 Submit a reflection about what you learned on the MLA app.
 
@@ -82,7 +82,7 @@ Today we cover
 [Chapter 3: Objects](https://openstax.org/books/introduction-python-programming/pages/3-introduction)
 of the OpenStax textbook
 
-### Homework03 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 3: Types__ of the Zybook and complete all of the exercises and labs in Chapter 3.
 Submit a reflection about what you learned on the MLA app.
 
@@ -100,7 +100,7 @@ Today we cover
 [Chapter 4: Decisionis](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
 of the OpenStax textbook
 
-### Homework04 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 4: Branching__ of the Zybook and complete all of the exercises and labs in Chapter 4.
 Submit a reflection about what you learned on the MLA app.
 
@@ -114,7 +114,7 @@ Today we cover
 [Chapter 5: Loops](https://openstax.org/books/introduction-python-programming/pages/5-introduction)
 of the OpenStax textbook
 
-### Homework05 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 5: Loops__ of the Zybook and complete all of the exercises and labs in Chapter 5.
 Submit a reflection about what you learned on the MLA app.
 
@@ -134,7 +134,7 @@ Today we cover
 [Chapter 6: Functions](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
 of the OpenStax textbook
 
- ### Homework06 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 6: Functions__ of the Zybook and complete all of the exercises and labs in Chapter 6.
 Submit a reflection about what you learned on the MLA app.
 
@@ -157,7 +157,7 @@ Today we cover
 [Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
 of the OpenStax textbook.
 
- ### Homework07 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 11: Modules__ of the Zybook and complete all of the exercises and labs in Chapter 11.
 Submit a reflection about what you learned on the MLA app.
 
@@ -170,7 +170,7 @@ Submit a reflection about what you learned on the MLA app.
 Today we cover
 [Chapter 8: Strings](https://openstax.org/books/introduction-python-programming/pages/8-introduction)
 
- ### Homework08 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 7: Strings__ of the Zybook and complete all of the exercises and labs in Chapter 7.
 Submit a reflection about what you learned on the MLA app.
 
@@ -185,7 +185,7 @@ Submit a reflection about what you learned on the MLA app.
 Today we cover
 [Chapter 9: Lists](https://openstax.org/books/introduction-python-programming/pages/9-introduction)
 
- ### Homework09 due tomorrow
+### Zybook Homework due Tomorrow
 Read __Zybook Chapter 8: Lists and Dictionaries__ of the Zybook and complete all of the exercises and labs in Chapter 8.
 Submit a reflection about what you learned on the MLA app.
 
@@ -198,7 +198,7 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-# Week 4: Tuples, Sets, Dictionaries, lists of Compound Objects
+# Week 4: Data Science in Python
 
 ---
 
@@ -224,7 +224,7 @@ Today we discuss
 
 ---
 
-# Week 5
+# Week 5: Object Oriented Programmin in Python
 
 ---
 
