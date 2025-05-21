@@ -20,7 +20,13 @@ Today we review the syllabus and discuss the learning objectives for the course.
 We spend most of the lesson learning how to write straight-line programs from 
 [Chapter 1: Statements](https://openstax.org/books/introduction-python-programming/pages/1-introduction)
 of the OpenStax text.
-### Additional notes
+
+## Homework01
+### due tomorrow
+Read Chapter 1 of the Zybook and complete all of the exercises and labs.
+Submit a reflection about what you learned on the MLA app.
+
+## Additional notes
 * [python environments](../notes/python_environments.md)
 * [printing strings](../notes/printing_strings.md)
 * [variable-naming](../notes/variable_naming.md)
@@ -33,6 +39,12 @@ of the OpenStax text.
 Today we cover 
 [Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
 in the OpenStax text.
+
+## Homework02
+### due tomorrow
+Read __Chapter 2: Variables and Expressions__ of the Zybook and complete all of the exercises and labs in Chapter 2.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional notes
 * [setup the vscode environment](../notes/vscode.md)
 * [string operations](../notes/string_operations.md)
@@ -49,6 +61,12 @@ in the OpenStax text.
 Today we cover 
 [Chapter 3: Objects](https://openstax.org/books/introduction-python-programming/pages/3-introduction)
 of the OpenStax textbook
+
+## Homework03
+### due tomorrow
+Read __Chapter 3: Types__ of the Zybook and complete all of the exercises and labs in Chapter 2.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional Notes:
 * [lists](../notes/lists.md)
 * [tuples](../notes/tuples.md)
