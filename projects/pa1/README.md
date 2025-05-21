@@ -13,7 +13,7 @@ The for each of the first four payments it calculates the new  balance b as foll
 print the interest i, principle p, and balance b   
 
 Your program should produce *exactly* the following output for the two cases shown below ...
-'''
+```
 Amortization Schedule for 4 payments
 Enter principle: 1000
 Enter interest rate, e.g. 0.05 for 5%: 0.1
@@ -34,7 +34,7 @@ Enter payment: 250
  2       0.00     250.00     500.00
  3       0.00     250.00     250.00
  4       0.00     250.00       0.00
-'''
+```
 
 ### What to hand in.
 Create two short narrated Zoom movies (less than 60 seconds)
