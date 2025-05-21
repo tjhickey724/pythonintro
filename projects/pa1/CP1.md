@@ -1,9 +1,15 @@
-# CP1 - a Creative Programming assignment
+# CP1 - Custom Calculator
 
 Write a Python program which asks the user for their name
 and prompts them for some numbers (integers and/or floats) 
 and then does several calculations and prints out the answers nicely
 with formatted printing (so fix the number of digits after the decimal point).
+
+## Requirements
+Your program should
+1. ask for at least three values of types string, int, and float.
+2. evaluate at least 3 different expressions storing the values in new variables
+3. generate both integer and float results and print the results using formatted printing where the number of digits after the decimal point is fixed (e.g. 2)
 
 For example, you could write a program to convert dollars to different currencies.
 Ask the user for the amount of dollars and then convert that into several different currencies
@@ -14,7 +20,7 @@ then find the volume of a cylinder by asking for the radius and height,
 then ....
 
 Or you could write a program to calculate how much each person owes 
-if they go out to dinner and split the bill equally for a given tax and tip rate.
+if three people go out to dinner and split the bill equally for a given tax and tip rate. 
 
 Just pick something which demonstrates your ability to prompt the user for numbers, do calculations, 
 and print the results out in a nicely formatted way.
