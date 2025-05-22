@@ -17,9 +17,10 @@ and then calculate the following values and print them out:
 7. the standard deviation (sqrt of the variance)
 
 You should not import any package for this and write this as one big script,
-don't define any functions or modules.
+don't define any functions or modules. You can use the Python builtin functions
+for len, sum, max, and min.
 
-Here is a sample run:
+Here is a sample run, your output should be identical to this:
 ```
 Enter N: 4
 Enter the 4 elements of the list
@@ -38,3 +39,10 @@ mode is 5
 variance is 2
 standard deviation is 1.414
 ```
+
+# What to hand in
+Hand in the code with a comment at the top containing your name and email and links to two short movies (< 2 minutes)
+1. A movie showing you running this program in VScode with the inputs shown as above
+2. A movie showing you running the program in Python tutor explaining what the program does to the memory and why that is giving the correct answers.
+
+Submit this on the Mastery Learnig App.
