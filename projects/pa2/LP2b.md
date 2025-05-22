@@ -31,7 +31,7 @@ Enter the 4 elements of the list
 The sorted list is 2 2 4 5 5
 sum is 18
 max value is 5
-min value is 3
+min value is 2
 mean is 3.6
 median is 4
 mode is 5
