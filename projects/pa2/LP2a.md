@@ -1,4 +1,6 @@
-# LP2: Heron's Formula with Error Checking
+# LP2a: Heron's Formula with Error Checking
+
+This assignment tests your ability to use if/elif/else conditional statements.
 
 Write a Python script to find the area of a triangle with sides of length a,b,c using Heron's formula,
 you can look it up online, but add error checking... 
