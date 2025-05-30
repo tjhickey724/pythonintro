@@ -1,5 +1,6 @@
 # CS10a: Introduction to Problem Solving in Python
-## Summer 2025, Brandeis University, Instructor: Tim Hickey 
+## Summer 2025, Brandeis University, 
+## Instructor: Tim Hickey 
 ## [Resources](../notes/python_environments.md) - texts, environments, LLMs
 ---
 ## Textbooks
