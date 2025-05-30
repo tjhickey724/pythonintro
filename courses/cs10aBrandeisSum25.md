@@ -32,7 +32,7 @@ If your videos do not clearly show that you fully understand the features used i
 
 ---
 
-# Week 1: Straightline programs 
+# Week 1: Straight-line programs 
 
 ---
 
@@ -51,8 +51,8 @@ We spend most of the lesson learning how to write straight-line programs from
 of the OpenStax text.
 
 You can attend the class synchronously (in real time) or asynchronously (watching the screen recordings),
-but in either case you need to answer questions posed in class using the Mastery Learning App:
-
+but in either case you need to answer questions posed in class using the Mastery Learning App as these
+count toward your final grade.
 
 **Zybook Homework due Tomorrow: PA1/ZP1 ** 
 Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
