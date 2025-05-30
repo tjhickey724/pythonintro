@@ -44,14 +44,23 @@ If your videos do not clearly show that you fully understand the features used i
 ---
 
 ## L01: Wed 6/4/2025  -- Variables, Expressions, and Environments
-Today we review the syllabus and discuss the learning objectives for the course.
+Today we 
+* review the syllabus and
+* discuss the learning objectives for the course.
+ 
 We spend most of the lesson learning how to write straight-line programs from 
 [Chapter 1: Statements](https://openstax.org/books/introduction-python-programming/pages/1-introduction)
 of the OpenStax text.
 
-**Zybook Homework due Tomorrow:** 
+You can attend the class synchronously (in real time) or asynchronously (watching the screen recordings),
+but in either case you need to answer questions posed in class using the Mastery Learning App:
+https://mastery.cs.brandeis.edu  with PINs 
+* Participation student PIN: 4901721
+
+**Zybook Homework due Tomorrow: PA1/ZP1 ** 
 Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
-Submit a reflection about what you learned on the MLA app.
+Submit a reflection about what you learned on the MLA app  with PIN: 2139473 for assignment PA1/ZP1
+
 
 ## Additional notes
 * [python environments](../notes/python_environments.md)
