@@ -29,6 +29,9 @@ This course has flexible deadlines. If you can't make the deadline then send me 
 * the 5 second rule
 * Calendaring
 
+You can learn more about these techniques by watching the videos on this link
+[time management tips](https://docs.google.com/document/d/1LVNXHE6NiL_NKLMpGiK4iXbyRGOXyC6D/edit?tab=t.0)
+
 ---
 
 ## Programming Projects -- due each Monday
