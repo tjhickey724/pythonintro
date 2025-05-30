@@ -101,7 +101,6 @@ Read __Zybook Chapter 2: Variables and Expressions__ of the Zybook and complete 
 Submit a reflection about what you learned on the MLA app.
 
 ### Additional notes
-* [setup the vscode environment](../notes/vscode.md)
 * [string operations](../notes/string_operations.md)
 
 ---
@@ -127,6 +126,7 @@ Read __Zybook Chapter 3: Types__ of the Zybook and complete all of the exercises
 Submit a reflection about what you learned on the MLA app.
 
 ### Additional Notes:
+* [setup the vscode environment](../notes/vscode.md)
 * [lists](../notes/lists.md)
 * [tuples](../notes/tuples.md)
 * [sets](../notes/sets.md)
