@@ -16,11 +16,7 @@
 free online textbook. We will use this during the lessons.
 
 ### [zybook: CS10a Introduction to Problem Solving in Python](https://learn.zybooks.com)
-This will be used primarily for assessment, the cost is $89
-  1. Sign in or create an account at learn.zybooks.com
-  2. Enter zyBook code: BRANDEISCOSI10AHickeySummer2025
-  3. Subscribe
-
+This will be used primarily for assessment
 ---
 
 ---
