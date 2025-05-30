@@ -10,6 +10,16 @@
 * [OpenStax.org: Introduction to Python Programming](https://openstax.org/details/books/introduction-python-programming) optional free online textbook which we will use during the lessons
 
 ---
+## Learning Objectives for the course
+By the end of the course you should be able to
+* read short Python programs (< 100 lines) and explain what happens when you run the program
+* write short Python programs (< 100 lines) to meet an explicit set of specifications
+* write short Python programs to solve some problem you find interesting
+* use LLMs (e.g. gemini.google.com) to
+  - create Python programs, and
+  - explain how they are working, and
+  - learn about new features of Python
+* run Python programs in VScode and in Google Colab as well as in PyTutor and Brython
 
 ---
 
