@@ -54,12 +54,11 @@ of the OpenStax text.
 
 You can attend the class synchronously (in real time) or asynchronously (watching the screen recordings),
 but in either case you need to answer questions posed in class using the Mastery Learning App:
-https://mastery.cs.brandeis.edu  with PINs 
-* Participation student PIN: 4901721
+
 
 **Zybook Homework due Tomorrow: PA1/ZP1 ** 
 Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
-Submit a reflection about what you learned on the MLA app  with PIN: 2139473 for assignment PA1/ZP1
+Submit a reflection about what you learned on the MLA app
 
 
 ## Additional notes
