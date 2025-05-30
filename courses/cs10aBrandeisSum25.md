@@ -28,7 +28,7 @@ For both assignments you will need to submit the python code and it should conta
 
 For each assignment, there will be more information about what the 2 movies should contain. The goal here is for you and the instructor to validate that you have mastered the skills needed to write and understand programs using the features we have learned up to that point.  
 
-If your videos do not clearly show that you fully understand the features used in your programs, then you'll be asked to meet on Zoom with the instructor or a TA, to review the key concepts. You may be asked to make revisions to your code and to resubmit new videos....
+If your videos do not clearly show that you fully understand the features used in your programs, then you'll be asked to meet on Zoom with the instructor or a TA, to review the key concepts. You may be asked to make revisions to your code and to resubmit new videos.... 
 
 ---
 
