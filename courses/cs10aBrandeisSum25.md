@@ -23,6 +23,14 @@ By the end of the course you should be able to
 
 ---
 
+## Flexible Deadlines
+This course has flexible deadlines. If you can't make the deadline then send me an email explaining when you will get it done. I strongly encourage you to use some effective Time Management tools such as
+* Pomodoros
+* the 5 second rule
+* Calendaring
+
+---
+
 ## Programming Projects -- due each Monday
 The goal of the programming projects is to assess your ability to write
 and understand python programs.
@@ -54,7 +62,9 @@ If your videos do not clearly show that you fully understand the features used i
 ## L01: Wed 6/4/2025  -- Variables, Expressions, and Environments
 Today we 
 * review the syllabus and
-* discuss the learning objectives for the course.
+* discuss the learning objectives for the course
+* practice writing and running simple Python programs in Brython and Python Tutor
+* cut/paste our answers into the Mastery Learning App and review each others answers.
  
 We spend most of the lesson learning how to write straight-line programs from 
 [Chapter 1: Statements](https://openstax.org/books/introduction-python-programming/pages/1-introduction)
@@ -66,7 +76,7 @@ count toward your final grade.
 
 **Zybook Homework due Tomorrow: PA1/ZP1 ** 
 Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
-Submit a reflection about what you learned on the MLA app
+Submit a reflection about what you learned on the MLA app. You can use gemini to help you with the labs, but use it in a way that helps you learn, not just to complete the assignments...
 
 
 ## Additional notes
