@@ -11,6 +11,7 @@ Your program should
 2. evaluate at least 3 different expressions storing the values in new variables
 3. generate both integer and float results and print the results using formatted printing where the number of digits after the decimal point is fixed (e.g. 2)
 
+## Examples
 For example, you could write a program to convert dollars to different currencies.
 Ask the user for the amount of dollars and then convert that into several different currencies
 
@@ -23,7 +24,7 @@ Or you could write a program to calculate how much each person owes
 if three people go out to dinner and split the bill equally for a given tax and tip rate. 
 
 Just pick something which demonstrates your ability to prompt the user for numbers, do calculations, 
-and print the results out in a nicely formatted way.
+and print the results out in a __nicely formatted__ way.
 
 # What to hand in
 Create 2 short narrated Zoom movies
