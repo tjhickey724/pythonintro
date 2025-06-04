@@ -99,7 +99,17 @@ These are called [formatted strings](https://docs.python.org/3/tutorial/inputout
 For example ```{name:20}``` would save the name in at least 20 spaces, ```{height:5.2f}``` would use at least 5 spaces for the height
 and would have exactly 2 digits after decimal point. Python offers a [rich collection of specifiers for how numbers should be printed](https://openstax.org/books/introduction-python-programming/pages/3-2-formatted-strings)
 
-You can also limit the number of digits appearing after the decimal sign
+``` python
+age = 68
+height=67.5
+name="Tim"
+inch_to_cm = 2.54
+height_in_cm = height*inch_to_cm
+intro = f'The person {name} is {age} years old and {height_in_cm:.1f} centimeters high'
+print(intro)
+```
+
+
 
 
 
