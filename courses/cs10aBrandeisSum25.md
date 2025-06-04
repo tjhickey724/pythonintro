@@ -89,6 +89,7 @@ Submit a reflection about what you learned on the MLA app. You can use gemini to
 * [variable-naming](../notes/variable_naming.md)
 * [Python Arithmetic](../notes/python_arithmetic.md)
 * [Variables](../notes/variables.md)
+* [Input](../notes/input.md)
 
 ---
 
