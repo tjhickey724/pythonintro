@@ -77,7 +77,7 @@ You can attend the class synchronously (in real time) or asynchronously (watchin
 but in either case you need to answer questions posed in class using the Mastery Learning App as these
 count toward your final grade.
 
-**Zybook Homework due Tomorrow: PA1/ZP1 ** 
+**Zybook Homework due Tomorrow: PA1/ZP1** 
 Read __Zybook Chapter 1:Introduction to Python__ of the Zybook and complete all of the exercises and labs.
 Submit a reflection about what you learned on the MLA app. You can use gemini to help you with the labs, but use it in a way that helps you learn, not just to complete the assignments...
 
