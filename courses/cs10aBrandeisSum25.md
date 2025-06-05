@@ -96,12 +96,23 @@ Submit a reflection about what you learned on the MLA app. You can use gemini to
 ## L02: Thu 6/5/2025 -- Expressions
 Today we cover 
 [Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
-in the OpenStax text.
+in the OpenStax text. We will do some of the problems in the openstax book answering the
+question on the Mastery Learning App.
 
 ### Concepts covered
+* variables as named locations in memories
+* expression evaluation by looking up values in memory
+* variable assignment as storing values in memory
+* tracing straightline programs by hand (being a pythontutor clone!)
+* variable naming, python keywords, python builtins, ```dir() dir(__builtins__)```
 * types and the ```type(x)```  function and the ```id(x)``` function
 * type conversion: ```int(x), float(x), str(x)```
+* scientific notation ```6.022e-23 = 6.024 * 10^(-23)```
 * operations on mixed data types:  int * float, str * int, str + float, int / int
+* roundoff errors and the ```round(x)``` function
+* integer division ```x//y``` and modulo ```x%y```
+* importing the math module ```math.sin(x)  math.pi math.ex(x) math.log(x) ...```
+* formatting code with blank lines
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 2: Variables and Expressions__ of the Zybook and complete all of the exercises and labs in Chapter 2.
