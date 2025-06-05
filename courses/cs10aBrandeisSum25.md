@@ -101,17 +101,21 @@ question on the Mastery Learning App.
 
 ### Concepts covered
 * variables as named locations in memories
+* strings, ASCII, and Unicode
 * expression evaluation by looking up values in memory
-* variable assignment as storing values in memory
+* variable assignment as storing values in memory using PEMDAS
+* compound operators ``` x += 4    y *= x    x *= x   z /=2 ...```
 * tracing straightline programs by hand (being a pythontutor clone!)
 * variable naming, python keywords, python builtins, ```dir() dir(__builtins__)```
 * types and the ```type(x)```  function and the ```id(x)``` function
 * type conversion: ```int(x), float(x), str(x)```
 * scientific notation ```6.022e-23 = 6.024 * 10^(-23)```
+* overflow and underflow ```2.0 ** 10000 == inf``` ```2.0 ** (-10000 == 0```
 * operations on mixed data types:  int * float, str * int, str + float, int / int
 * roundoff errors and the ```round(x)``` function
 * integer division ```x//y``` and modulo ```x%y```
 * importing the math module ```math.sin(x)  math.pi math.ex(x) math.log(x) ...```
+* importing the random module ```random.random(), random.randint(a,b)```
 * formatting code with blank lines
 
 **Zybook Homework due Tomorrow:** 
