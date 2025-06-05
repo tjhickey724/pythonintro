@@ -97,6 +97,10 @@ Submit a reflection about what you learned on the MLA app. You can use gemini to
 
 __NOTE__ I don't have office hours today...
 
+Look at Zybooks analytics
+* about half of class has completed the Ch1 problems
+* the average time is about 1 hour
+
 Today we cover 
 [Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
 in the OpenStax text. We will do some of the problems in the openstax book answering the
