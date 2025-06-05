@@ -94,6 +94,9 @@ Submit a reflection about what you learned on the MLA app. You can use gemini to
 ---
 
 ## L02: Thu 6/5/2025 -- Expressions
+
+__NOTE__ I don't have office hours today...
+
 Today we cover 
 [Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
 in the OpenStax text. We will do some of the problems in the openstax book answering the
@@ -118,9 +121,13 @@ question on the Mastery Learning App.
 * importing the random module ```random.random(), random.randint(a,b)```
 * formatting code with blank lines
 
-**Zybook Homework due Tomorrow:** 
+**Zybook Homework due Monday:** 
 Read __Zybook Chapter 2: Variables and Expressions__ of the Zybook and complete all of the exercises and labs in Chapter 2.
 Submit a reflection about what you learned on the MLA app.
+
+**MLA Homework due Monday:**
+* CP1 - create a custom calculator and 2 movies
+* LP1 - create the Amortization calculator and 2 movies
 
 ### Additional notes
 * [string operations](../notes/string_operations.md)
