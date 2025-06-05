@@ -28,7 +28,7 @@ and print the results out in a __nicely formatted__ way.
 
 # What to hand in
 Create 2 short narrated Zoom movies
-1. Showing you running your program in VScode and explaining how to use it and how it meets the **Requirements**.
+1. Showing you running your program in Brython or PythonTutor and explaining how to use it and how it meets the **Requirements**.
 2. Showing you explaining each line of your program and how it works. Don't read the program, explain it at a higher level as if you were explaining it to a classmate or a fellow software engineer!
 
 Cut/paste your code into the PA1 textbox in the Mastery Learning App and add a comment at the top with links to the two movies.
