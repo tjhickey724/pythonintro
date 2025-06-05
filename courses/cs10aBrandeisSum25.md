@@ -132,6 +132,7 @@ Submit a reflection about what you learned on the MLA app.
 **MLA Homework due Monday:**
 * CP1 - create a custom calculator and 2 movies
 * LP1 - create the Amortization calculator and 2 movies
+  - we can try the 7 step approach to problem solving for this...
 
 ### Additional notes
 * [problem solving strategy](../notes/problem_solving.md)
