@@ -134,7 +134,6 @@ Submit a reflection about what you learned on the MLA app.
 * LP1 - create the Amortization calculator and 2 movies
 
 ### Additional notes
-* [string operations](../notes/string_operations.md)
 * [problem solving strategy](../notes/problem_solving.md)
 
 ---
@@ -161,6 +160,7 @@ Submit a reflection about what you learned on the MLA app.
 
 ### Additional Notes:
 * [setup the vscode environment](../notes/vscode.md)
+* [string operations](../notes/string_operations.md)
 * [lists](../notes/lists.md)
 * [tuples](../notes/tuples.md)
 * [sets](../notes/sets.md)
