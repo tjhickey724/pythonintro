@@ -98,12 +98,18 @@ Today we cover
 [Chapter 2: Expressions](https://openstax.org/books/introduction-python-programming/pages/2-1-the-python-shell)
 in the OpenStax text.
 
+### Concepts covered
+* types and the ```type(x)```  function and the ```id(x)``` function
+* type conversion: ```int(x), float(x), str(x)```
+* operations on mixed data types:  int * float, str * int, str + float, int / int
+
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 2: Variables and Expressions__ of the Zybook and complete all of the exercises and labs in Chapter 2.
 Submit a reflection about what you learned on the MLA app.
 
 ### Additional notes
 * [string operations](../notes/string_operations.md)
+* [problem solving strategy](../notes/problem_solving.md)
 
 ---
 
