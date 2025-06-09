@@ -102,6 +102,10 @@ defg
 abcdefg
 ```
 
+
+# Once we learn about loops and conditionals ...
+Skip for now...
+
 ## String Accumulation Loops
 We can transform one string into another using a string accumulation loop.
 For example, the remove all of the vowels from a string we can use the following loop.
