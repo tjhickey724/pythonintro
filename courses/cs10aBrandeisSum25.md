@@ -153,7 +153,10 @@ Submit a reflection about what you learned on the MLA app.
 ## L03: Mon 6/9/2025 Objects and Types
 Today we cover 
 [Chapter 3: Objects](https://openstax.org/books/introduction-python-programming/pages/3-introduction)
-of the OpenStax textbook
+of the OpenStax textbook and of the Zybook
+
+We begin by looking over some of the creative homeworks that were due today
+and we talk about the new form for requesting a homework deadline extension.
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 3: Types__ of the Zybook and complete all of the exercises and labs in Chapter 3.
