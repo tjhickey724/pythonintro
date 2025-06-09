@@ -27,12 +27,6 @@ likewise ```tuple(s)``` will convert a set into a tuple
 
 ## Set operations
 You can test if something is in a set using ``` x in s``` just as with lists and tuples
-
-You can iterate through a set with a for loop
-``` python
-for d in digits:
-  print(d, end=" ")
-```
 but you can not use indexing or slicing on a set
 ```
 digits = set(list(range(0,10)))
