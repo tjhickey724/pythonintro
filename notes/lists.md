@@ -62,7 +62,7 @@ Python has several useful built-in methods on lists:
 * ```L.sort()``` sorts the elements in L
 
 ## Splitting a string into a list of words or list of characters
-The ```split``` function splits 
+The ```split``` function splits a string into a list of strings
 ```
 words = "this is a test".split()
 columns = "10,25,hello,1.0".split(',')
