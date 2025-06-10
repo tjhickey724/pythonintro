@@ -174,7 +174,7 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L04: Tue 6/10/2025  Conditionals
-Today we cover 
+Today we finish up our discussion of Objects then we cover 
 [Chapter 4: Decisions](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
 of the OpenStax textbook
 
