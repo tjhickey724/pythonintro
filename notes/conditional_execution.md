@@ -107,5 +107,56 @@ else:
 
 print('bye')
 ```
-  
+
+## Conditional expressions
+
+```
+x = VALUE if CONDITION else OTHER_VALUE
+```
+is the same as
+```
+if CONDITION:
+   x = VALUE
+else
+   x = OTHER_VALUE
+```
+
+
+
+
+
+# Exercises
+
+### BMI test
+underweight, normal, overweight
+
+### Ticket price
+10 for children under 6, 15 for seniors over 65, 20 everyone else
+
+### leap year
+if year is divisibly by 4
+unless it is also divisible by 100 but not by 400
+* leap years  1600 2000 2004 2024
+* non leap years 2001 2002 2003 2005 2100 1900 1800 1700
+
+### Hangman test
+guesses = set of letters
+answer = word to guess
+guess = letter guessed
+outcomes:
+* letter was already guessed, try again
+* letter is in the word (update guesses)
+* letter is not in word
+
+### Wordle test
+answer = five letter word
+guess = five letter word
+return new word with 
+* dash if letter was not in word
+* upper case if letter is in the word and in right position
+* lower case if letter is in the word but not in right position
+Do test on letter with index k
+
+
+
 
