@@ -141,8 +141,11 @@ unless it is also divisible by 100 but not by 400
 
 ### Hangman test
 guesses = set of letters
+
 answer = word to guess
+
 guess = letter guessed
+
 outcomes:
 * letter was already guessed, try again
 * letter is in the word (update guesses)
@@ -150,7 +153,11 @@ outcomes:
 
 ### Wordle test
 answer = five letter word
+
 guess = five letter word
+
+k = index of a letter in the guess
+
 return new word with 
 * dash if letter was not in word
 * upper case if letter is in the word and in right position
