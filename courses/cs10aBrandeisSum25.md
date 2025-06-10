@@ -176,7 +176,7 @@ Submit a reflection about what you learned on the MLA app.
 ## L04: Tue 6/10/2025  Conditionals
 Today we finish up our discussion of Objects then we cover 
 [Chapter 4: Decisions](https://openstax.org/books/introduction-python-programming/pages/4-introduction)
-of the OpenStax textbook
+of the OpenStax textbook. 
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 4: Branching__ of the Zybook and complete all of the exercises and labs in Chapter 4.
