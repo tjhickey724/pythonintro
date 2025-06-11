@@ -99,3 +99,33 @@ while (x>0):
 ```
 If this happens you need to use CTRL-C to kill the job.
 
+## Examples
+
+### Guessing Game
+Let's implement this game:
+* generate a random integer in the range 0 1000
+* store it in the variable ```answer```
+* ask the user to make a guess
+* if they guess the answer end the loop
+* if not, tell them if it is too big or too small
+* count the number of guesses they make
+
+### Robot Psychologist
+Try this one
+have a conversation with the user and pick a random response to each of their comments.
+Stop when they say "goodbye"
+
+### Hangman
+* pick a random word from a list
+* ask the user to try to guess letters
+* keep track of wrong guesses
+* stop when wrong guesses is 7 or more, or when they've guessed all the letters
+* print out a clue after each guess (showing the letters they got right and a dash for missing letters)
+
+### Wordle
+* pick a random 5 letter word from a list
+* ask the user to guess a 5 letter word
+* print out a clue showing which letters are in correct position, which are in word, and a dash for letters not in word.
+
+
+
