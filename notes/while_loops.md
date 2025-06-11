@@ -57,7 +57,6 @@ print("you were supposed to enter positive numbers!!")
 print('done')
 ```
 
-How would you rewrite this without the break?
 
 ### the ```continue``` statement
 The ```continue``` statement appearing in a loop, causes Python to skip the
@@ -89,3 +88,14 @@ print("Done!")
 ```
 
 How does this differ from the previous program?
+
+## Infinite loops
+If you are not careful, the while loop might never stop, e.g.
+```
+x=1
+while (x>0):
+  x=x+1
+  print(x)
+```
+If this happens you need to use CTRL-C to kill the job.
+
