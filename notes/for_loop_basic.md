@@ -64,3 +64,18 @@ for name in names:
    print(f"{name:8} has {len(name):3} letters")
 ```  
 
+## Nested Loops
+When processing a table of data one often uses nested loops, the outer one for the row, the inner for column
+```
+for row in range(5):
+  for col in range(3):
+     print((row,col),end=" ")
+  print()
+```
+The inner loop might also depend on the outer loop variable:
+```
+for row in range(5):
+  for col in range(row):
+     print((row,col),end=" ")
+  print()
+```
