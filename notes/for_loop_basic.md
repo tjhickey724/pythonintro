@@ -49,3 +49,18 @@ while i<4:
     i+=1
 print('Done')
 ```
+
+## Iterating over a list
+You can also use a for list to iterate over a list of Python objects
+and formatted printing can make the output line up nicely in columns
+```
+for x in [2,3,5,7,11,13,17,19]:
+   print(f"{x:6d} {x**2:6d} {x**0.5:6.2f}")
+```
+and here is another example
+```
+names = "abe ben carl diane ed fatima guy 山下　ひとし　安子".split()
+for name in names:
+   print(f"{name:8} has {len(name):3} letters")
+```  
+
