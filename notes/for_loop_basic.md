@@ -79,3 +79,14 @@ for row in range(5):
      print((row,col),end=" ")
   print()
 ```
+
+## Examples
+
+### table of squares and square roots
+print a table of the squares and square roots of the integers from 1 to 50
+
+### multiplication table
+print a multiplication table up to 12x12
+
+### remove vowels
+print a word but with each vowel replaced by '-'
