@@ -44,4 +44,7 @@ while response=='y':
 print('you entered',numbers)
 print('the average is',sum(numbers)/len(numbers))
 ```
-  
+
+
+
+
