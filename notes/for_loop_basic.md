@@ -80,6 +80,21 @@ for row in range(5):
   print()
 ```
 
+## Enumerate
+You can use a for loop to iterate over the indices and the values of a list
+```
+fruits = "apple banana orange lemon pineapple".split()
+for i in range(len(fruits)):
+  fruit = fruits[i]
+  print(f"the {i}th fruit is {fruit}")
+```
+but there is a simpler way to do this using the enumerate function....
+```
+fruits = "apple banana orange lemon pineapple".split()
+for (i,fruit) in enumerate(fruits):
+  print(f"the {i}th fruit is {fruit}")
+```
+
 ## Examples
 
 ### table of squares and square roots
