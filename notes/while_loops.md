@@ -127,5 +127,8 @@ Stop when they say "goodbye"
 * ask the user to guess a 5 letter word
 * print out a clue showing which letters are in correct position, which are in word, and a dash for letters not in word.
 
-
+### Read class list
+Prompt the user to enter info about a student: name, age, major
+and create a list of dictionaries with one for each student.
+Then print average age of students...
 
