@@ -55,6 +55,10 @@ and the syntax for calling such a function is
 NAME()
 ```
 
+## Print Menu
+A good application of no-parameter print functions
+is to print a menu of choice for the user to take...
+
 
 
 
