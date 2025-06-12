@@ -1,5 +1,6 @@
 # Refactoring
-This is a technique to remove redundance.
+This is a technique to remove redundance and highlight the structure of a program.
+
 For example, we can refactor the following function
 ``` python
 def poem():
