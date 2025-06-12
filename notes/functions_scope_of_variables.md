@@ -12,7 +12,7 @@ for x in dir(__builtins__):
 ```
 
 ### local scope
-These are the variable defined in the function, including the parameters and any other variables that appear in the body
+These are the variables defined in the function, including the parameters and any other variables that appear in the body
 For example
 ``` python
 def box_volumn(width, height, depth):
@@ -20,7 +20,7 @@ def box_volumn(width, height, depth):
     return vol
 ```
 The local variables of box_volume are ```width, height, depth``` and ```vol```
-The only code which access these variables is the code inside that function...
+The only code which can access these variables is the code inside that function...
 
 ### global scope
 These are the variables whose values are defined outside of any function
