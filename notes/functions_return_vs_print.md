@@ -18,7 +18,7 @@ def square_r(x):
     y = x*x
     return y
 ```
-If we then call square1=_p or square_r in the terminal, they both caculate the square and print it
+If we then call square_p or square_r in the terminal, they both caculate the square and print it
 ``` python
 >>> square_p(35)
 1225
