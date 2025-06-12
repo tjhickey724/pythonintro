@@ -207,7 +207,7 @@ Submit a reflection about what you learned on the MLA app.
 
 
 
-## L06: Thu 6/12/2025 Review and Practice
+## L06: Thu 6/12/2025 Functions
 
 Today we cover
 [Chapter 6: Functions](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
@@ -234,9 +234,10 @@ Today we get more practice with analyzing Python programs.
 
 # Week 3: Functions, Strings, and Lists
 
-## L07: Mon 6/16/2025 Functions
+## L07: Mon 6/16/2025 Review and Practice
 
 Today we review and get more practice.
+In particular we look at ways of structuring programs using functions.
 
 ---
 
