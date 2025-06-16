@@ -234,10 +234,31 @@ Today we get more practice with analyzing Python programs.
 
 # Week 3: Functions, Strings, and Lists
 
+NOTE:  class on Tuesday is rescheduled for Thursday.
+Since Thursday is a holiday you don't have to attend and can watch
+the video instead, but I will be on Zoom as usual. I have a medical
+procedure on Tuesday and so can't make it.
+
 ## L07: Mon 6/16/2025 Review and Practice
 
 Today we review and get more practice.
-In particular we look at ways of structuring programs using functions.
+First we complete our review of the Functions chapters,
+then we look at ways of structuring programs using functions.
+
+Our approach is to
+1. solve the problem by hand
+   * with person A simulating the computer
+   * with person B acting as the user
+   * and  person C writing everything down as a transcript
+2. convert the transcript to pseudocode
+3. convert the pseudocode to python and test it
+
+In part (3) we do this using "stub" functions.
+
+### Examples
+1. program to guess a number between 1 and N
+2. program to play hangman with a user
+3. program to play wordle
 
 ---
 
