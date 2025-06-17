@@ -262,7 +262,10 @@ In part (3) we do this using "stub" functions.
 
 ---
 
-## L08: Tue 6/17/2025 Strings
+## Tue 6/17/2025 Class Rescheduled for Thursday 6/19
+
+
+## L08: Wed 6/18/2025 Strings
 Today we cover
 [Chapter 8: Strings](https://openstax.org/books/introduction-python-programming/pages/8-introduction)
 
@@ -277,7 +280,7 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L09: Wed 6/18/2025  Lists
+## L09: Thi 6/19/2025  Lists  (Juneteenth, attendance is optional)
 Today we cover
 [Chapter 9: Lists](https://openstax.org/books/introduction-python-programming/pages/9-introduction)
 
