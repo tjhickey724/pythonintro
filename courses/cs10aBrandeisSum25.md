@@ -288,8 +288,21 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L09: Thi 6/19/2025  Lists  (Juneteenth, attendance is optional)
-Today we cover
+
+First, we show how to write a program to play the wordle game with a user.
+We do this in the same way that we wrote the hangman game... 
+* play the game with a person being the computer and explaining out loud every thing they are doing
+  write down what they said
+* convert the transcript into pseudocode
+* convert the pseudocode into code using stub functions with good docstrings
+* write the bodies of the stub functions and test them
+* test the entire program and walk through it with the debugger
+
+Homework is to complete this program.
+
+Time permitting we cover a little more detail on lists and dictionaries ...
 [Chapter 9: Lists](https://openstax.org/books/introduction-python-programming/pages/9-introduction)
+
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 8: Lists and Dictionaries__ of the Zybook and complete all of the exercises and labs in Chapter 8.
@@ -313,6 +326,9 @@ Today we cover
 [Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
 of the OpenStax textbook.
 
+Then we discuss using lists of dictionaries to represent complex data sets.
+[Chapter 10: Dictionaries](https://openstax.org/books/introduction-python-programming/pages/10-introduction)
+
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 11: Modules__ of the Zybook and complete all of the exercises and labs in Chapter 11.
 Submit a reflection about what you learned on the MLA app.
@@ -322,8 +338,10 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L11: Tue 6/24/2025  Dictionaries and Data Representation
-Today we discuss
-[Chapter 10: Dictionaries](https://openstax.org/books/introduction-python-programming/pages/10-introduction)
+
+Today we start doing data science with large lists...
+and we use the full list of Brandeis courses during the 21-22 academic year...
+
 ### Additional Notes:
 * none
 
@@ -331,9 +349,16 @@ Today we discuss
 
 ## L12: Wed 6/25/2025 Multidimensional Arrays
 
+Today we look at storing data as a table of values,
+e.g. a color photo is a table of tuples (r,g,b) where
+r,g,b are the amounts of red, green, and blue in the pixel
+at that location (row i and col j).
+
 ---
 
 ## L13: Thu 6/26/2025 Review and Practice
+We get more practice with image transforms 
+(grey scale, color filter, zoom in, pixelate, ...)
 
 ---
 
