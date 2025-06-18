@@ -266,8 +266,15 @@ In part (3) we do this using "stub" functions.
 
 
 ## L08: Wed 6/18/2025 Strings
-Today we cover
+First we go over the debugging of the Hangman game..
+
+Then we cover
 [Chapter 8: Strings](https://openstax.org/books/introduction-python-programming/pages/8-introduction)
+and we look at how to read a set of words from a file into a list of words (which we can use for the hangman game).
+
+Then we look at the Eliza chatbot example and discuss the L3b Chatbot homework problem..
+
+Then we use the same process we applied for hangman to write a wordle program...
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 7: Strings__ of the Zybook and complete all of the exercises and labs in Chapter 7.
