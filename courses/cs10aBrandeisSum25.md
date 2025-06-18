@@ -372,15 +372,17 @@ We get more practice with image transforms
 
 ---
 
-## L15: Tue 7/1/2025
+## L15: Tue 7/1/2025  More on Classes and OOP
 
 ---
 
 ## L16: Wed 7/2/2025
+FINAL EXAMS - no exams in this class, so you can work on your final creative project
 
 ---
 
 ## L17: Thu 7/3/2025
+FINAL EXAMS - no exams in this class, so you can work on your final creative project
 
 ---
 
