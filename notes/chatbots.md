@@ -53,5 +53,4 @@ sad_responses = [
     ]
 ```
 
-For PA3 you are to extend this by adding a few more categories of words and changing the
-persona from a therapist to something else.
+
