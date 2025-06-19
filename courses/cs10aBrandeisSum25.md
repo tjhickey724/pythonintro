@@ -292,6 +292,10 @@ Submit a reflection about what you learned on the MLA app.
 First, we cover a little more detail on lists and dictionaries ...
 [Chapter 9: Lists](https://openstax.org/books/introduction-python-programming/pages/9-introduction)
 
+Then we brainstorm a little about possible ideas for an interactive game for homework CP3
+and type our ideas 
+[here](https://docs.google.com/document/d/1sjKWG1xGSEdZri5yFKCCRwTxv9nwq6maAxAVtYHhWQI/edit?usp=sharing)
+
 Next, we show how to write a program to play the wordle game with a user.
 [Here](https://wordleunlimited.org) is a website for playing wordle.
 
