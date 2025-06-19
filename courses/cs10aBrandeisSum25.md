@@ -303,8 +303,15 @@ We do this in the same way that we wrote the hangman game...
 
 We will do 1,2,3 and part of 4. Your homework is to complete 4 and do 5....
 
-Time permitting we will start our exploration of Python for Data Science by
-beginning to analyze Brandeis course data available at 
+Time permitting we will start our exploration of Python for Data Science.
+We start by adding some information to 
+[this google spreadsheet](https://docs.google.com/spreadsheets/d/1xAA0AE6P5Fu2IjAcq5Fq4fMfWlK-JMFUb3CcOHyd2_g/edit?usp=sharing)
+Then we download the spreadsheet as a csv file and show how to start analyzing it using Python.
+
+The first step is to using the csv package to read it as a list of dictionaries.
+Then we can use Comprehensions to analyze the data.
+
+Time permitting we will look at a real-life data set consisting of Brandeis course data from 2021-2022 available at
 [this link](https://drive.google.com/file/d/1f5ClJDNWqwh-gFlgvnwJASIYJOGyBYwy/view?usp=sharing)
 
 
