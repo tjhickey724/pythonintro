@@ -293,7 +293,9 @@ First, we cover a little more detail on lists and dictionaries ...
 [Chapter 9: Lists](https://openstax.org/books/introduction-python-programming/pages/9-introduction)
 
 Next, we show how to write a program to play the wordle game with a user.
-We do this in the same way that we wrote the hangman game... 
+[Here](https://wordleunlimited.org) is a website for playing wordle.
+
+We write this program in the same way that we wrote the hangman game... 
 1. play the game with a person being the computer and explaining out loud every thing they are doing
   write down what they said
 2. convert the transcript into pseudocode
