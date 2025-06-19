@@ -76,4 +76,14 @@ for VARIABLE in LIST:
 where of courses we need to replace VARIABLE, LIST, CONDITION, and EXPRESSION
 with the appropriate Python code.
 
+# tuple, set, and dictionary comprehensions
 
+We can use almost the same notation to create tuples, sets, and dictionaries, e.g.
+
+```python
+odd_squares_tuple = (d*d for d in range(100) if d%2==1)   # note the parentheses instead of square brackets
+odd_squares_set = [d*d for d in range(100) if d%2==1] # note the curly braces instead of square brackets
+
+words = "the night is freezing fast".split()
+word_dict = {w:len(w) for w in words}  # makes a dictionary whose keys are the words and values are the word lengths
+```
