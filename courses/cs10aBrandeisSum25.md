@@ -353,8 +353,12 @@ In the second half we cover
 of the OpenStax textbook, and we create a module for working Pokemon. This could be used for lots of different
 Pokemon style games... The pokemon are represented using lists of dictionaries.
 [Chapter 10: Dictionaries](https://openstax.org/books/introduction-python-programming/pages/10-introduction)
-```
-[
+
+This is an example of refactoring a program into multiple files which can make the code more useful as it can
+be used for multiple different programs.
+
+``` python
+monsters = [
     {
       "name": "Charmander",
       "health": 100,
@@ -401,6 +405,11 @@ Submit a reflection about what you learned on the MLA app.
 
 Today we start doing data science with large lists...
 and we use the full list of Brandeis courses during the 21-22 academic year...
+We also show how to use the numpy and matplotlib libraries for creating visualizations.
+
+**Zybook Homework due Tomorrow:** 
+Read __Zybook Chapter 12: Files__ of the Zybook and complete all of the exercises and labs in Chapter 12.
+Submit a reflection about what you learned on the MLA app.
 
 ### Additional Notes:
 * none
@@ -413,6 +422,9 @@ Today we look at storing data as a table of values,
 e.g. a color photo is a table of tuples (r,g,b) where
 r,g,b are the amounts of red, green, and blue in the pixel
 at that location (row i and col j).
+
+We explore photo manipulation using jupyter notebooks in google colab
+following [this tutorial](https://github.com/tjhickey724/pythonintro/blob/main/code/pa04_images/images.ipynb)
 
 ---
 
