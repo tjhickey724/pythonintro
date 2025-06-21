@@ -420,7 +420,7 @@ Submit a reflection about what you learned on the MLA app.
 
 Today we look at storing data as a table of values,
 e.g. a color photo is a table of tuples (r,g,b) where
-r,g,b are the amounts of red, green, and blue in the pixel
+r,g,b are the amounts of red, green, and blue in the pixel 
 at that location (row i and col j).
 
 We explore photo manipulation using jupyter notebooks in google colab
