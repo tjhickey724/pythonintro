@@ -343,13 +343,52 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L10: Mon 6/23/2025 | Modules
-Today we cover 
+In the first half of the lesson, 
+we begin by working on the Pokemon Battle app from last time and we work together to refactor it using functions.
+Refactoring is an important skill to develop.  We can also ask our AI to refactor the program, but it is good to
+do it ourselves so we understnd what is happening.
+
+In the second half we cover 
 [Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
-of the OpenStax textbook.
-
-Then we discuss using lists of dictionaries to represent complex data sets.
+of the OpenStax textbook, and we create a module for working Pokemon. This could be used for lots of different
+Pokemon style games... The pokemon are represented using lists of dictionaries.
 [Chapter 10: Dictionaries](https://openstax.org/books/introduction-python-programming/pages/10-introduction)
-
+```
+[
+    {
+      "name": "Charmander",
+      "health": 100,
+      "attacks": [
+        {"name": "Scratch", "min_damage": 15, "max_damage": 25},
+        {"name": "Ember", "min_damage": 10, "max_damage": 30}
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "health": 90,
+      "attacks": [
+        {"name": "Tackle", "min_damage": 10, "max_damage": 20},
+        {"name": "Water Gun", "min_damage": 15, "max_damage": 25}
+      ]
+    },
+    {
+      "name": "Bulbasaur",
+      "health": 110,
+      "attacks": [
+        {"name": "Vine Whip", "min_damage": 12, "max_damage": 22},
+        {"name": "Razor Leaf", "min_damage": 8, "max_damage": 35}
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "health": 85,
+      "attacks": [
+        {"name": "Quick Attack", "min_damage": 18, "max_damage": 28},
+        {"name": "Thunder Shock", "min_damage": 13, "max_damage": 32}
+      ]
+    }
+  ]
+```
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 11: Modules__ of the Zybook and complete all of the exercises and labs in Chapter 11.
 Submit a reflection about what you learned on the MLA app.
