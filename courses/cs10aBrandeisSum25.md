@@ -403,8 +403,12 @@ Submit a reflection about what you learned on the MLA app.
 
 ## L11: Tue 6/24/2025  Dictionaries and Data Representation
 
-Today we start doing data science with large lists...
-and we use the full list of Brandeis courses during the 21-22 academic year...
+Today we start doing data science with large lists... and we look at several lists:
+* US baby names from 1880-2020 with
+  [this jupyter notebook](https://github.com/tjhickey724/pythonintro/blob/main/code/jupyter/baby100.ipynb)
+* the full list of Brandeis courses during the 21-22 academic year... with
+  [this jupyter notebook](https://github.com/tjhickey724/pythonintro/blob/main/code/courses/courses.ipynb)
+* colab data sets
 We also show how to use the numpy and matplotlib libraries for creating visualizations.
 
 **Zybook Homework due Tomorrow:** 
