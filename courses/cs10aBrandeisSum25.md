@@ -397,6 +397,9 @@ monsters = [
 Read __Zybook Chapter 11: Modules__ of the Zybook and complete all of the exercises and labs in Chapter 11.
 Submit a reflection about what you learned on the MLA app.
 
+Read __Zybook Chapter 22: Additional Labs on Loops__ of the Zybook and complete all of the exercises and labs in Chapter 22.
+Submit a reflection about what you learned on the MLA app.
+
 
 
 ---
@@ -415,6 +418,9 @@ We also show how to use the numpy and matplotlib libraries for creating visualiz
 Read __Zybook Chapter 12: Files__ of the Zybook and complete all of the exercises and labs in Chapter 12.
 Submit a reflection about what you learned on the MLA app.
 
+Read __Zybook Chapter 23: Additional Labs on Functions__ of the Zybook and complete all of the exercises and labs in Chapter 23.
+Submit a reflection about what you learned on the MLA app.
+
 ### Additional Notes:
 * none
 
@@ -430,11 +436,19 @@ at that location (row i and col j).
 We explore photo manipulation using jupyter notebooks in google colab
 following [this tutorial](https://github.com/tjhickey724/pythonintro/blob/main/code/pa04_images/images.ipynb)
 
+**Zybook Homework due Tomorrow:** 
+Read __Zybook Chapter 24: Additional Labs on Strings__ of the Zybook and complete all of the exercises and labs in Chapter 24.
+Submit a reflection about what you learned on the MLA app.
+
 ---
 
 ## L13: Thu 6/26/2025 Review and Practice
 We get more practice with image transforms 
 (grey scale, color filter, zoom in, pixelate, ...)
+
+**Zybook Homework due Tomorrow:** 
+Read __Zybook Chapter 25: Additional Labs on Lists and Dictionaries__ of the Zybook and complete all of the exercises and labs in Chapter 25.
+Submit a reflection about what you learned on the MLA app.
 
 ---
 
