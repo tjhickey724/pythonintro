@@ -343,12 +343,13 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L10: Mon 6/23/2025 | Modules
-In the first half of the lesson, 
-we begin by working on the Pokemon Battle app from last time and we work together to refactor it using functions.
+We begin by looking over the creative assignments from week 3 and commenting on them.
+
+Next, we begin by working on the Pokemon Battle app from last time and we work together to refactor it using functions.
 Refactoring is an important skill to develop.  We can also ask our AI to refactor the program, but it is good to
 do it ourselves so we understnd what is happening.
 
-In the second half we cover 
+Next, we cover 
 [Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/7-introduction)
 of the OpenStax textbook, and we create a module for working Pokemon. This could be used for lots of different
 Pokemon style games... The pokemon are represented using lists of dictionaries.
@@ -356,6 +357,9 @@ Pokemon style games... The pokemon are represented using lists of dictionaries.
 
 This is an example of refactoring a program into multiple files which can make the code more useful as it can
 be used for multiple different programs.
+
+Here is the file [monsters.py](https://github.com/tjhickey724/pythonintro/blob/main/code/pokemon/monsters.py)
+containing our monsters!
 
 ``` python
 monsters = [
