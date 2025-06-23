@@ -349,7 +349,7 @@ Refactoring is an important skill to develop.  We can also ask our AI to refacto
 do it ourselves so we understnd what is happening.
 
 In the second half we cover 
-[Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/6-introduction)
+[Chapter 7: Modules](https://openstax.org/books/introduction-python-programming/pages/7-introduction)
 of the OpenStax textbook, and we create a module for working Pokemon. This could be used for lots of different
 Pokemon style games... The pokemon are represented using lists of dictionaries.
 [Chapter 10: Dictionaries](https://openstax.org/books/introduction-python-programming/pages/10-introduction)
