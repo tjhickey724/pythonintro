@@ -33,7 +33,7 @@ def print_intro_to_game():
     print("------------------------------------\n")
 
     
-def get_available_monster():
+def get_available_monsters():
     # --- Define a list of available monsters with multiple attacks ---
     # Each monster now has an 'attacks' key, which is a list of dictionaries.
     # Each inner dictionary represents a specific attack with its name and damage range.
