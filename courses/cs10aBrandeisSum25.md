@@ -444,6 +444,11 @@ but double check its answers as it can confidently give wrong answers!
 
 We begin by reviewing what you need to do to succeed in this course.
 
+Then we continue with the pokemon example and show how to move some of the code into a module
+that we can then import into the game program.  This breaks the code into two files in a nice way
+and further simplifies the structure and organization of the program, making it easier to understand,
+modify, and maintain.
+
 Next,we start doing data science with large lists... and we look at several lists:
 * US baby names from 1880-2020 with
   [this jupyter notebook](https://github.com/tjhickey724/pythonintro/blob/main/code/jupyter/baby100.ipynb)
