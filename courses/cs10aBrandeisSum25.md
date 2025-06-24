@@ -408,10 +408,8 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L11: Tue 6/24/2025  Dictionaries and Data Representation
 
-We begin by reviewing what you need to do to succeed in this course.
-
+## How to succeed in this course 
 Your course grade is based on the number of skills you master. 
 
 This course has 12 zybook chapter skills (Ch1--Ch12)
@@ -436,6 +434,11 @@ Please come to our office hours to get help if you need it, and also ask gemini 
 but double check its answers as it can confidently give wrong answers!
 
 ---
+
+
+## L11: Tue 6/24/2025  Dictionaries and Data Representation
+
+We begin by reviewing what you need to do to succeed in this course.
 
 Next,we start doing data science with large lists... and we look at several lists:
 * US baby names from 1880-2020 with
