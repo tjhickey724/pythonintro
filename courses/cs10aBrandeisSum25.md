@@ -430,6 +430,10 @@ on Monday and Tuesday, but there is no class on Wednesday or Thursday as those a
 exams and we don't have any final exams. So you can use that time to complete as many of the skills
 as you can.
 
+All course work needs to be submitted by Thursday 7/3/2025 before midnight
+This is the only hard deadline in the course, and it can be extended because I have
+a very full schedule for the rest of the summer that I can't change.
+
 Please come to our office hours to get help if you need it, and also ask gemini or another AI for help,
 but double check its answers as it can confidently give wrong answers!
 
