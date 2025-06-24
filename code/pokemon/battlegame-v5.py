@@ -90,27 +90,14 @@ def game_start():
 
     opponent_monster = choose_opponent_monster(available_monsters)
 
-
-
-
     time.sleep(2) # Pause before the battle begins.
     print("--- Battle Start! ---\n")
-
-    # --- Main Game Loop ---
-    # The game continues as long as both monsters have health above zero.
-
- 
-    turn = 1
-
-
-
     
+    turn = 1
     while player_monster['health'] > 0 and opponent_monster['health'] > 0:
         print_stats(player_monster, opponent_monster, turn)
         # --- Player's turn to choose action / attack ---
         chosen_player_attack = choose_player_attack(player_monster)
-
-
 
         # 1. Your monster attacks the opponent using the chosen attack
         attack(player_monster, opponent_monster, chosen_player_attack)
