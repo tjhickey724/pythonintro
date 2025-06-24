@@ -410,7 +410,34 @@ Submit a reflection about what you learned on the MLA app.
 
 ## L11: Tue 6/24/2025  Dictionaries and Data Representation
 
-Today we start doing data science with large lists... and we look at several lists:
+We begin by reviewing what you need to do to succeed in this course.
+
+Your course grade is based on the number of skills you master. 
+
+This course has 12 zybook chapter skills (Ch1--Ch12)
+and 4 zybook Additional Lab skils (Ch22-25) and we will add a few more next week
+So there will be about 20 zybook skills. Each of these skills has a required reflection, but
+you also need to answer all of the questions in the zybook for those chapters...
+
+There are 4 creative programming skills CP1,CP2,CP3,CP4
+and there are 5 lab programming skills LP1, LP2a, LP2b, LP3a, LP3b
+There is one participation skill PART which is the proportion of participation questions you answer with a good faith effort.
+That sums to 30 skills.
+
+If you master S skills then your grade will be 10 + 3*S,
+so you get 10 points for fee and 3 points for each skill.
+
+We will cover object oriented programming next week (Python classes and exceptions)
+on Monday and Tuesday, but there is no class on Wednesday or Thursday as those are for final
+exams and we don't have any final exams. So you can use that time to complete as many of the skills
+as you can.
+
+Please come to our office hours to get help if you need it, and also ask gemini or another AI for help,
+but double check its answers as it can confidently give wrong answers!
+
+---
+
+Next,we start doing data science with large lists... and we look at several lists:
 * US baby names from 1880-2020 with
   [this jupyter notebook](https://github.com/tjhickey724/pythonintro/blob/main/code/jupyter/baby100.ipynb)
 * the full list of Brandeis courses during the 21-22 academic year... with
