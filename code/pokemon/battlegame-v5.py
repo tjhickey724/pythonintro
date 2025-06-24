@@ -7,7 +7,7 @@ the health of one or the other is zero.
 import random # We need this module to generate random numbers for attack damage.
 import time   # We'll use this to pause the game briefly, making it more readable.
 
-from monsters import *
+import monsters
 
 def print_intro_to_game():
     """ print a brief intro about what the game is and how to play """
@@ -82,25 +82,38 @@ def game_start():
     """
 
     print_intro_to_game()
-    available_monsters = get_available_monsters()
+    available_monsters = monsters.get_available_monsters()
 
     print("Choose your monster:")
-    print_monsters(available_monsters)
+    monsters.print_monsters(available_monsters)
     player_monster = pick_monster(available_monsters)
 
     opponent_monster = choose_opponent_monster(available_monsters)
 
+
+
+
     time.sleep(2) # Pause before the battle begins.
     print("--- Battle Start! ---\n")
-    
+
+    # --- Main Game Loop ---
+    # The game continues as long as both monsters have health above zero.
+
+ 
     turn = 1
+
+
+
+    
     while player_monster['health'] > 0 and opponent_monster['health'] > 0:
         print_stats(player_monster, opponent_monster, turn)
         # --- Player's turn to choose action / attack ---
         chosen_player_attack = choose_player_attack(player_monster)
 
+
+
         # 1. Your monster attacks the opponent using the chosen attack
-        attack(player_monster, opponent_monster, chosen_player_attack)
+        monsters.attack(player_monster, opponent_monster, chosen_player_attack)
 
         # Check if opponent is defeated after your attack
         if opponent_monster['health'] <= 0:
@@ -115,7 +128,7 @@ def game_start():
 
         # Opponent randomly chooses one of its attacks
         chosen_opponent_attack = random.choice(opponent_monster['attacks'])
-        attack(opponent_monster, player_monster, chosen_opponent_attack)
+        monsters.attack(opponent_monster, player_monster, chosen_opponent_attack)
 
         # Check if your monster is defeated after opponent's attack
         if player_monster['health'] <= 0:
