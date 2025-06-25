@@ -487,7 +487,8 @@ Submit a reflection about what you learned on the MLA app.
 
 ## L13: Thu 6/26/2025 Review and Practice
 We get more practice with basic python programming using problems from 
-[codingbat.com](https://codingbat.com/python) and other places.
+[codingbat.com](https://codingbat.com/python) and other places. We will also look at some problems from
+[Project Euler](https://projecteuler.net/archives) for those who like Mathematical problems.
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 25: Additional Labs on Lists and Dictionaries__ of the Zybook and complete all of the exercises and labs in Chapter 25.
