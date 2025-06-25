@@ -486,8 +486,8 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L13: Thu 6/26/2025 Review and Practice
-We get more practice with image transforms 
-(grey scale, color filter, zoom in, pixelate, ...)
+We get more practice with basic python programming using problems from 
+[codingbat.com](https://codingbat.com/python) and other places.
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 25: Additional Labs on Lists and Dictionaries__ of the Zybook and complete all of the exercises and labs in Chapter 25.
