@@ -486,6 +486,11 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L13: Thu 6/26/2025 Review and Practice
+
+Grading update... I've decided to only assign Ch9 and 10 next week and no more additional
+labs, so there will be 26 total skills and your grade will be
+22 + 3*S where S is the number of skills you master (with participation being 1 skill)
+
 Next week we cover Python Classes and Exceptions on Monday and Tuesday.
 I'll hold office hours on Wed and Thu to help everyone complete their homework
 All the homework is due by Thursday 7/3 before midnight. 
@@ -515,10 +520,16 @@ Submit a reflection about what you learned on the MLA app.
 
 ## L14: Mon 6/30/2025 Classes and Object Oriented Programming in Python
 
+**Zybook Homework due Tomorrow:** 
+Read __Zybook Chapter 9: Classes__ of the Zybook and complete all of the exercises and labs in Chapter 9.
+Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L15: Tue 7/1/2025  More on Classes and OOP
 
+**Zybook Homework due Tomorrow:** 
+Read __Zybook Chapter 10: Exceptions__ of the Zybook and complete all of the exercises and labs in Chapter 10.
+Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L16: Wed 7/2/2025
