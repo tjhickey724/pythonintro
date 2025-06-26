@@ -486,7 +486,18 @@ Submit a reflection about what you learned on the MLA app.
 ---
 
 ## L13: Thu 6/26/2025 Review and Practice
-We get more practice with basic python programming using problems from 
+Next week we cover Python Classes and Exceptions on Monday and Tuesday.
+I'll hold office hours on Wed and Thu to help everyone complete their homework
+All the homework is due by Thursday 7/3 before midnight. 
+
+In the first hour, we continue with the image manipulation and explore and write functions 
+* to convert an image to black and white
+* to convert an image to use fewer colors
+* to merge two images.
+* to implement a green screen effect
+* to detect edges
+
+In the second hour, we get more practice with basic python programming using problems from 
 [codingbat.com](https://codingbat.com/python) and other places. We will also look at some problems from
 [Project Euler](https://projecteuler.net/archives) for those who like Mathematical problems.
 
