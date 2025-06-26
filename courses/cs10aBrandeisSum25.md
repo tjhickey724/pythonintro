@@ -495,6 +495,9 @@ Next week we cover Python Classes and Exceptions on Monday and Tuesday.
 I'll hold office hours on Wed and Thu to help everyone complete their homework
 All the homework is due by Thursday 7/3 before midnight. 
 
+We first brainstorm about ideas for the CP4 homework at this link:
+https://docs.google.com/document/d/1vvQqo-90Da6Z5Yn4JpAi87bPw9KDGG3S0kaM3XRodbs/edit?tab=t.0
+
 In the first hour, we continue with the image manipulation and explore and write functions 
 * to convert an image to black and white
 * to convert an image to use fewer colors
