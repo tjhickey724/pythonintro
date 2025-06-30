@@ -523,6 +523,11 @@ Submit a reflection about what you learned on the MLA app.
 
 ## L14: Mon 6/30/2025 Classes and Object Oriented Programming in Python
 
+This is the last week of class. There is no class on Wed or Thu, but I will have open office hours
+if you want to stop by for some help. Thu 7/3 is the last day to submit work for this class. 
+Please try to complete all of the Zybook chapters (and write a reflection on the Mastery App)
+and complete all of the creative and lab problems on the Mastery App.
+
 Today we introduce classes and we go through the 
 [Official Python Tutorial on Classes](https://docs.python.org/3/tutorial/classes.html#)
 and we'll look at the [OpenStax chapter on Classes](https://openstax.org/books/introduction-python-programming/pages/11-introduction)
