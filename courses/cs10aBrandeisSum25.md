@@ -523,6 +523,10 @@ Submit a reflection about what you learned on the MLA app.
 
 ## L14: Mon 6/30/2025 Classes and Object Oriented Programming in Python
 
+Today we introduce classes and we go through the 
+[Official Python Tutorial on Classes](https://docs.python.org/3/tutorial/classes.html#)
+
+
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 9: Classes__ of the Zybook and complete all of the exercises and labs in Chapter 9.
 Submit a reflection about what you learned on the MLA app.
