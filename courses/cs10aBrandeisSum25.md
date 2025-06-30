@@ -526,6 +526,7 @@ Submit a reflection about what you learned on the MLA app.
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 9: Classes__ of the Zybook and complete all of the exercises and labs in Chapter 9.
 Submit a reflection about what you learned on the MLA app.
+
 ---
 
 ## L15: Tue 7/1/2025  More on Classes and OOP
@@ -533,6 +534,7 @@ Submit a reflection about what you learned on the MLA app.
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 10: Exceptions__ of the Zybook and complete all of the exercises and labs in Chapter 10.
 Submit a reflection about what you learned on the MLA app.
+
 ---
 
 ## L16: Wed 7/2/2025
