@@ -539,7 +539,9 @@ Submit a reflection about what you learned on the MLA app.
 
 ---
 
-## L15: Tue 7/1/2025  More on Classes and OOP
+## L15: Tue 7/1/2025  Sorting and Recursion
+
+We talk about sorting algorithms and implement [mergesort](https://github.com/tjhickey724/pythonintro/tree/main/code/merge_sort) as a recursive algorithm.
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 10: Exceptions__ of the Zybook and complete all of the exercises and labs in Chapter 10.
