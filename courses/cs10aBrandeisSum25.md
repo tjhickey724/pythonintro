@@ -532,6 +532,14 @@ Today we introduce classes and we go through the
 [Official Python Tutorial on Classes](https://docs.python.org/3/tutorial/classes.html#)
 and we'll look at the [OpenStax chapter on Classes](https://openstax.org/books/introduction-python-programming/pages/11-introduction)
 
+Concepts:
+* classes encapsulate data and functions in one object (like modules)
+* classes as a namespace
+* class variables versus instance variables
+* class functions versus class methods
+* __str__, __eq__, and other special methods
+* interval arithemtic
+* bank_account class (e.g. for use in a game!)
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 9: Classes__ of the Zybook and complete all of the exercises and labs in Chapter 9.
