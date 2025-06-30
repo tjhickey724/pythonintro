@@ -537,6 +537,9 @@ and we'll look at the [OpenStax chapter on Classes](https://openstax.org/books/i
 Read __Zybook Chapter 9: Classes__ of the Zybook and complete all of the exercises and labs in Chapter 9.
 Submit a reflection about what you learned on the MLA app.
 
+You can get 1 extra credit skill by completing 
+[this survey reflecting on your experience in this course](https://docs.google.com/forms/d/e/1FAIpQLSdZNjx4GK3PjVmJxq46N45eSQHPoXBWmgKPVDYUQ8VqltBZqw/viewform?usp=preview)
+
 ---
 
 ## L15: Tue 7/1/2025  Sorting and Recursion
