@@ -532,6 +532,7 @@ Today we introduce classes and we go through the
 [Official Python Tutorial on Classes](https://docs.python.org/3/tutorial/classes.html#)
 and we'll look at the [OpenStax chapter on Classes](https://openstax.org/books/introduction-python-programming/pages/11-introduction)
 
+[Here](https://github.com/tjhickey724/pythonintro/tree/main/code/classes) is a jupyter notebook on classes.
 Concepts:
 * classes encapsulate data and functions in one object (like modules)
 * classes as a namespace
