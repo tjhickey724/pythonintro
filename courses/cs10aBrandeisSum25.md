@@ -559,6 +559,14 @@ Remember all work must be completed by Thursday 7/3 before midnight.  That is th
 
 Today, we talk about sorting algorithms and implement [mergesort](https://github.com/tjhickey724/pythonintro/tree/main/code/merge_sort) as a recursive algorithm.
 
+We will end the class with a discussion of possible ways that people might use Python in the future,
+and we'll experiment with asking the AIs to write Python programs to do that.... Note that coding with an AI
+still requires two additional steps:
+* creating a good prompt (and possibly refining it) to get a good possible solution
+* analyzing and testing the code to verify that it does actually meet the requirements
+
+Both steps require a certain level of maturity in understanding coding.
+
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 10: Exceptions__ of the Zybook and complete all of the exercises and labs in Chapter 10.
 Submit a reflection about what you learned on the MLA app.
