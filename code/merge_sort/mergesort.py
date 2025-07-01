@@ -1,36 +1,37 @@
 import random
 import time
 
-def merge(vs,ws):
-    i=0
-    j=0
-    vals=[0]*(len(vs)+len(ws))
-    while (i<len(vs) and j<len(ws)):
-        if vs[i]<ws[j]:
-            vals[i+j]=vs[i]
-            i=i+1
+def merge(list1, list2):
+    """ return the result of merging two sorted lists 
+       the idea is we create a new list by taking the smallest value from the front of the two lists,
+       and moving it onto the new list. Do this until one of the lists is empty, then copy the rest
+       of the other list to the result.
+    
+    """
+    result = []
+    i = j = 0
+    
+    while i < len(list1) and j < len(list2):
+        if list1[i] <= list2[j]:
+            result.append(list1[i])
+            i += 1
         else:
-            vals[i+j]=ws[j]
-            j=j+1
-    # either i==len(vs) or j== len(ws)
-    # one of the lists has been fully processed
-
-    # copy rest of ws to list
-    while j<len(ws):
-        vals[i+j]=ws[j]
-        j=j+1
-    # copy rest of vs to list
-    while i<len(vs):
-        vals[i+j]= vs[i]
-        i=i+1
-    return vals
+            result.append(list2[j])
+            j += 1
+    
+    # Add remaining elements of the non-empty list, to the end of the list
+    # note that one of these two lists is empty, so the extend does nothing for that list
+    result.extend(list1[i:])
+    result.extend(list2[j:])
+    
+    return result
 
 def mergesort(vals):
     ''' sort vals by recursively sorting 2 halves then merging '''
     n = len(vals)
     if n<=1: # a list of size 0 or 1 is already sorted
         return vals
-    mid = n//2
+    mid = n//2  # calculate the approximate midpoint
     return( merge(mergesort(vals[:mid]),mergesort(vals[mid:])))
 
 
@@ -40,10 +41,10 @@ def mergesort_v(vals):
     if n<=1:
         return vals
     mid = n//2  # split into two halfs, roughly equal
-    vs = vals[:mid]
-    ws = vals[mid:]
-    vs = mergesort_v(vs) # sort those two halves, recursively
-    ws = mergesort_v(ws)
+    vs = vals[:mid]  # left half of the list, has length = mid
+    ws = vals[mid:]  # right half of the list, has length = mid or mid+1
+    vs = mergesort_v(vs) # sort the left half, recursively
+    ws = mergesort_v(ws) # sort the right half, recursively
     vals = merge(vs,ws) # merge the sorted lists in about n steps
     return vals
 
