@@ -552,8 +552,12 @@ You can get 1 extra credit skill by completing
 ---
 
 ## L15: Tue 7/1/2025  Sorting and Recursion
+There is a Mastery Learning App question about how long it took you to complete the Extra Credit Survey.
+When the graders see you have answered the survey they'll give you credit for that question.
 
-We talk about sorting algorithms and implement [mergesort](https://github.com/tjhickey724/pythonintro/tree/main/code/merge_sort) as a recursive algorithm.
+Remember all work must be completed by Thursday 7/3 before midnight.  That is the one hard deadline of the course. 
+
+Today, we talk about sorting algorithms and implement [mergesort](https://github.com/tjhickey724/pythonintro/tree/main/code/merge_sort) as a recursive algorithm.
 
 **Zybook Homework due Tomorrow:** 
 Read __Zybook Chapter 10: Exceptions__ of the Zybook and complete all of the exercises and labs in Chapter 10.
